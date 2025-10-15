@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-15T11:34:24.574589+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2025-10-15T11:44:12.227607+08:00",
+  "total_titles_processed": 319,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时34分"
+          "appearance_count": 3,
+          "time_info": "[11时34分 ~ 11时44分]"
         },
         {
           "title": "特朗普称考虑终止与中国部分贸易往来",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时34分"
+          "appearance_count": 3,
+          "time_info": "[11时34分 ~ 11时44分]"
         },
         {
           "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
@@ -37,8 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时34分"
+          "appearance_count": 3,
+          "time_info": "[11时34分 ~ 11时44分]"
         },
         {
           "title": "自扇耳光?特朗普关税战求和中国",
@@ -48,8 +48,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时34分"
+          "appearance_count": 3,
+          "time_info": "[11时34分 ~ 11时44分]"
         }
       ]
     },
@@ -65,8 +65,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时34分"
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 11时44分]"
         },
         {
           "title": "OpenAI将在阿根廷投资250亿美元，打造拉美首个“星际之门”项目",
@@ -76,8 +76,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时34分"
+          "appearance_count": 3,
+          "time_info": "[11时34分 ~ 11时44分]"
         },
         {
           "title": "AI重塑零售业！沃尔玛携手OpenAI在ChatGPT上推出购物功能",
@@ -87,8 +87,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时34分"
+          "appearance_count": 3,
+          "time_info": "[11时34分 ~ 11时44分]"
         }
       ]
     },
@@ -101,11 +101,12 @@
           "url": "https://www.toutiao.com/trending/7561245865755561535/",
           "source": "今日头条",
           "ranks": [
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时34分"
+          "appearance_count": 3,
+          "time_info": "[11时34分 ~ 11时44分]"
         },
         {
           "title": "金价走高什么信号",
@@ -132,8 +133,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时34分"
+          "appearance_count": 3,
+          "time_info": "[11时34分 ~ 11时44分]"
         },
         {
           "title": "美股三大期指盘前明显下跌 稀土概念股逆市走强 | 今夜看点",
@@ -143,8 +144,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时34分"
+          "appearance_count": 3,
+          "time_info": "[11时34分 ~ 11时44分]"
         }
       ]
     },
@@ -160,8 +161,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时34分"
+          "appearance_count": 3,
+          "time_info": "[11时34分 ~ 11时44分]"
         }
       ]
     }

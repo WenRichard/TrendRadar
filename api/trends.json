@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-15T14:21:49.715400+08:00",
-  "total_titles_processed": 571,
+  "generated_at": "2025-10-15T15:17:55.441504+08:00",
+  "total_titles_processed": 675,
   "failed_sources": [],
   "trends": [
     {
@@ -126,7 +126,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "特朗普发起“毒品战争”的醉翁之意：美国战略重心正向西半球倾斜",
@@ -136,8 +136,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时34分 ~ 14时21分]"
+          "appearance_count": 7,
+          "time_info": "[11时34分 ~ 15时17分]"
         },
         {
           "title": "特朗普称考虑终止与中国部分贸易往来",
@@ -148,8 +148,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时34分 ~ 14时21分]"
+          "appearance_count": 7,
+          "time_info": "[11时34分 ~ 15时17分]"
         },
         {
           "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
@@ -160,8 +160,30 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时34分 ~ 14时21分]"
+          "appearance_count": 7,
+          "time_info": "[11时34分 ~ 15时17分]"
+        },
+        {
+          "title": "胡锡进：特朗普越急，中美越可能达成新的阶段性协议",
+          "url": "https://news.ifeng.com/c/8nTJ3Z36eHu",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
+          "title": "特朗普：我很不高兴，考虑对西班牙征收关税",
+          "url": "https://news.ifeng.com/c/8nTFc7ITZHc",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         },
         {
           "title": "特朗普抱怨称中国故意不买美国大豆",
@@ -202,11 +224,23 @@
           "url": "https://www.cls.cn/detail/2169818",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 15时17分]"
+        },
+        {
+          "title": "美国国防部长：我们从美国总统特朗普那里学到了以实力促和平的积极运用。",
+          "url": "https://flash.jin10.com/detail/20251015145235222800",
+          "source": "金十数据",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时21分"
+          "time_info": "15时17分"
         }
       ]
     },
@@ -252,6 +286,36 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "特朗普的一个推特让比特币波动超 10%，比特币价格频繁大幅波动，是不是说明其已经失去了数字黄金的地位？",
+          "url": "https://www.zhihu.com/question/1961010617587561780",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时34分 ~ 15时17分]"
+        },
+        {
+          "title": "黄金有央行支撑而白银没有，高盛：投资金额小幅回落也会导致白银价格大幅回调",
+          "url": "https://wallstreetcn.com/articles/3757146",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 2,
       "titles": [
@@ -277,25 +341,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时34分 ~ 11时44分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "特朗普的一个推特让比特币波动超 10%，比特币价格频繁大幅波动，是不是说明其已经失去了数字黄金的地位？",
-          "url": "https://www.zhihu.com/question/1961010617587561780",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时34分 ~ 14时21分]"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T22:16:30.205676+08:00",
-  "total_titles_processed": 2143,
+  "generated_at": "2025-10-16T23:17:36.436962+08:00",
+  "total_titles_processed": 2223,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 88,
+      "match_count": 93,
       "titles": [
         {
           "title": "特朗普证实已授权中情局在委内瑞拉开展行动",
@@ -56,6 +56,18 @@
           "time_info": "[00时15分 ~ 04时18分]"
         },
         {
+          "title": "特朗普授权CIA在委开展“致命行动”，马杜罗：不需要",
+          "url": "https://news.ifeng.com/c/8nV1O2GQlWd",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时21分 ~ 23时17分]"
+        },
+        {
           "title": "特朗普又操心：若阿根廷与中国军方合作，我会很不安",
           "url": "https://news.ifeng.com/c/8nTJvw1uBxX",
           "source": "凤凰网",
@@ -66,18 +78,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[03时13分 ~ 07时15分]"
-        },
-        {
-          "title": "特朗普授权CIA在委开展“致命行动”，马杜罗：不需要",
-          "url": "https://news.ifeng.com/c/8nV1O2GQlWd",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时21分 ~ 22时16分]"
         },
         {
           "title": "中方回应特朗普指责停止进口美大豆",
@@ -163,6 +163,18 @@
           "time_info": "[13时15分 ~ 18时19分]"
         },
         {
+          "title": "中方回应特朗普让中国停买俄石油",
+          "url": "https://www.toutiao.com/trending/7561368482139373610/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时39分 ~ 23时17分]"
+        },
+        {
           "title": "特朗普回应发军饷：有位绅士愿意付",
           "url": "https://www.toutiao.com/trending/7560868714460823595/",
           "source": "今日头条",
@@ -189,16 +201,19 @@
           "time_info": "[09时02分 ~ 13时15分]"
         },
         {
-          "title": "中方回应特朗普让中国停买俄石油",
-          "url": "https://www.toutiao.com/trending/7561368482139373610/",
-          "source": "今日头条",
+          "title": "特朗普中东行有何成果",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%AD%E4%B8%9C%E8%A1%8C%E6%9C%89%E4%BD%95%E6%88%90%E6%9E%9C",
+          "source": "bilibili 热搜",
           "ranks": [
             2,
-            1
+            25,
+            10,
+            13,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时39分 ~ 22时16分]"
+          "appearance_count": 5,
+          "time_info": "[19时14分 ~ 23时17分]"
         },
         {
           "title": "“极不寻常”，特朗普打算旁听最高法院关税案辩论",
@@ -256,26 +271,17 @@
           "time_info": "14时21分"
         },
         {
-          "title": "在与乌克兰总统泽连斯基会晤前，美国总统特朗普周四将与俄罗斯总统普京通话。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/2989074",
-          "source": "华尔街见闻-快讯",
+          "title": "一图看懂｜特朗普对委内瑞拉发动“毒品战争”，真能禁毒？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31791900",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            20,
+            19,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "据AXIOS网站：在与泽连斯基会晤前一天，特朗普将于周四与普京通电话，讨论俄乌冲突。",
-          "url": "https://flash.jin10.com/detail/20251016220759681800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时17分 ~ 23时17分]"
         },
         {
           "title": "美国白宫：美国总统特朗普将延长联邦政府雇员招聘冻结期限。",
@@ -322,31 +328,29 @@
           "time_info": "07时15分"
         },
         {
-          "title": "特朗普中东行有何成果",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%AD%E4%B8%9C%E8%A1%8C%E6%9C%89%E4%BD%95%E6%88%90%E6%9E%9C",
-          "source": "bilibili 热搜",
+          "title": "万人裁员计划暂停！美国法院暂时禁止特朗普在政府关门期间大规模裁员",
+          "url": "https://wallstreetcn.com/articles/3757263",
+          "source": "华尔街见闻",
           "ranks": [
-            2,
-            25,
             10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时14分 ~ 22时16分]"
-        },
-        {
-          "title": "一图看懂｜特朗普对委内瑞拉发动“毒品战争”，真能禁毒？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31791900",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[17时17分 ~ 20时30分]"
+          "time_info": "[19时14分 ~ 23时17分]"
+        },
+        {
+          "title": "在与乌克兰总统泽连斯基会晤前，美国总统特朗普周四将与俄罗斯总统普京通话。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/2989074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 23时17分]"
         },
         {
           "title": "特朗普威胁西班牙加关税 欧盟：将做出适当回应",
@@ -371,6 +375,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 07时15分]"
+        },
+        {
+          "title": "据AXIOS网站：在与泽连斯基会晤前一天，特朗普将于周四与普京通电话，讨论俄乌冲突。",
+          "url": "https://flash.jin10.com/detail/20251016220759681800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 23时17分]"
         },
         {
           "title": "特朗普威胁要对西班牙加关税，欧盟：将做出适当回应",
@@ -419,19 +435,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时13分 ~ 04时18分]"
-        },
-        {
-          "title": "万人裁员计划暂停！美国法院暂时禁止特朗普在政府关门期间大规模裁员",
-          "url": "https://wallstreetcn.com/articles/3757263",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时14分 ~ 22时16分]"
         },
         {
           "title": "美国法官暂时阻止总统特朗普的联邦政府在关门期间裁员",
@@ -610,6 +613,17 @@
           "time_info": "02时28分"
         },
         {
+          "title": "欧洲央行管委Olli Rehn：欧元区通胀风险是两个方向的（上行+下行）。 必须对通胀下行风险保持警觉。 通胀已经在我们的目标附近保持稳定。 欧洲央行在利率行动方面是完全自由的（不像美联储那样会频繁地遭到美国总统特朗普的干扰）。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/2989086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "美国白宫：美国总统特朗普刚刚签署一项行政令，指示国防部长确保美国现役军人能在10月15日收到他们的工资，尽管目前民主党正导致政府停摆。",
           "url": "https://flash.jin10.com/detail/20251016024630325800",
           "source": "金十数据",
@@ -641,6 +655,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "美国参议院少数党领袖舒默：我们将就Gateway月球站项目资金削减问题与特朗普展开斗争。",
+          "url": "https://flash.jin10.com/detail/20251016225112742800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "据Politico：美国总统特朗普本周拨款65亿美元用于发放军人薪酬。",
@@ -687,6 +712,17 @@
           "time_info": "03时13分"
         },
         {
+          "title": "白宫官员：美国总统特朗普与俄罗斯总统普京将于今日通话。",
+          "url": "https://flash.jin10.com/detail/20251016222932645800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "克里姆林宫：俄罗斯可以以更低的价格向那些特朗普正试图说服不购买俄罗斯石油的国家提供高质量的石油。",
           "url": "https://flash.jin10.com/detail/20251016181333778800",
           "source": "金十数据",
@@ -718,6 +754,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
+        },
+        {
+          "title": "Lithium Americas跌17%，摩根大通下调评级，称特朗普政府入股对评级的意义不大",
+          "url": "https://wallstreetcn.com/livenews/2989076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "美媒：特朗普政府授权CIA在委内瑞拉采取秘密行动",
@@ -885,6 +932,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "美媒：特朗普将在会见泽连斯基前一天与普京通话",
+          "url": "https://flash.jin10.com/detail/20251016221042944800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "WTI原油期货在亚太盘初涨0.83%，暂报58.32美元，此前一度拉升至58.75美元。 隔夜，美国总统特朗普宣称，印度将停止购买俄罗斯石油。",
           "url": "https://wallstreetcn.com/livenews/2988441",
           "source": "华尔街见闻-快讯",
@@ -1031,7 +1089,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "强劲盈利缓解贸易冲突担忧，美股三大股指集体高开，现货黄金突破4200美元关口，白银重回53美元高位",
@@ -1153,6 +1211,18 @@
           "time_info": "[04时18分 ~ 05时15分]"
         },
         {
+          "title": "美股三大股指开盘走高，道指涨0.19%，标普500指数涨0.32%，纳指涨0.41%。台积电涨超1%，Q3净利润创历史新高；美光科技、阿斯麦涨超3%，博通涨超2%，英伟达涨超1%；Salesforce开盘涨超8%，创4月9日以来最大涨幅，此前公司预测营收将超预期；美股稀土概念股Critical Metals涨超14%；蔚来跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/2989055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 23时17分]"
+        },
+        {
           "title": "纳斯达克生物科技指数收涨1.6%，表现好于美股大盘指数。 成分股奥麦罗制药（OMER）收涨154.27%，该公司与诺和诺德围绕Zaltenibart达成许可协议；Sana Biotechnology涨33.03%，Absci涨28.21%，Recursion Pharmaceuticals涨15.62%，Xeris Pharmaceuticals涨14.04%。 Q32 Bio则收跌5.68%表现倒数第三，Esperion跌6.67%，EyePoint Pharmaceuticals跌10.79%。",
           "url": "https://wallstreetcn.com/livenews/2988410",
           "source": "华尔街见闻-快讯",
@@ -1220,6 +1290,17 @@
           "time_info": "01时15分"
         },
         {
+          "title": "台积电强劲业绩带动AI乐观情绪，美股三大股指集体上涨，科技股盘前多数走高，金银维持强势，加密货币震荡",
+          "url": "https://wallstreetcn.com/articles/3757299",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "美股开盘，道指涨0.19%，标普500指数涨0.32%，纳指涨0.41%。台积电(TSM.N)涨1.37%，其季度利润再创新高。蔚来汽车(NIO.N)下跌7.7%，公司遭新加坡主权财富基金诉讼，相关指控三年前已澄清。纳斯达克中国金龙指数跌0.16%。",
           "url": "https://flash.jin10.com/detail/20251016213033736800",
           "source": "金十数据",
@@ -1231,6 +1312,17 @@
           "time_info": "21时39分"
         },
         {
+          "title": "美股三大期指集体走高 台积电业绩领芯片股普涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2171914",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "美国合众银行三季度每股收益1.22美元，预估1.12美元。 三季度净利息收入为42.5亿美元，预估41.7亿美元。 美国合众银行美股盘前涨2%。",
           "url": "https://wallstreetcn.com/livenews/2988942",
           "source": "华尔街见闻-快讯",
@@ -1240,17 +1332,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
-        },
-        {
-          "title": "美股三大股指开盘走高，道指涨0.19%，标普500指数涨0.32%，纳指涨0.41%。台积电涨超1%，Q3净利润创历史新高；美光科技、阿斯麦涨超3%，博通涨超2%，英伟达涨超1%；Salesforce开盘涨超8%，创4月9日以来最大涨幅，此前公司预测营收将超预期；美股稀土概念股Critical Metals涨超14%；蔚来跌超7%。",
-          "url": "https://wallstreetcn.com/livenews/2989055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
         },
         {
           "title": "美股盘前，AI芯片股普涨，台积电(TSM.N)涨2.4%，Q3净利润创历史新高；博通(AVGO.O)涨1.46%，英伟达(NVDA.O)、AMD(AMD.O)涨超1%。蔚来汽车(NIO.N)盘前跌6.6%。",
@@ -1270,7 +1351,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -1432,6 +1513,18 @@
           "time_info": "09时03分"
         },
         {
+          "title": "是什么一直支持黄金价格一路飙升",
+          "url": "https://www.toutiao.com/trending/7561799628442570266/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 23时17分]"
+        },
+        {
           "title": "下周金价会重演2015年行情吗",
           "url": "https://www.toutiao.com/trending/7561615409112157705/",
           "source": "今日头条",
@@ -1515,17 +1608,6 @@
           "time_info": "12时18分"
         },
         {
-          "title": "是什么一直支持黄金价格一路飙升",
-          "url": "https://www.toutiao.com/trending/7561799628442570266/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
           "title": "黄金还能“牛”多久？ 专家：迭创新高后，金价或步入震荡阶段",
           "url": "https://wallstreetcn.com/livenews/2988450",
           "source": "华尔街见闻-快讯",
@@ -1562,7 +1644,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "硬刚sora2谷歌发布Veo3.1",
@@ -1600,6 +1682,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时15分 ~ 02时28分]"
+        },
+        {
+          "title": "纳斯达克100指数上涨1%，刷新日高，成分股美光科技涨6.4%，电商Shopify涨3.4%，Doordash涨3.1%，博通涨2.9%，Arm控股涨2.5%，谷歌A涨1.8%，英伟达涨1.7%，特许通讯则跌2.8%，VRSK跌4.4%。",
+          "url": "https://wallstreetcn.com/livenews/2989087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "Salesforce与谷歌扩大合作，将Gemini模型引入Agentforce 360平台。",

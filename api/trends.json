@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-19T18:15:54.524653+08:00",
-  "total_titles_processed": 1020,
+  "generated_at": "2025-10-19T19:12:32.472975+08:00",
+  "total_titles_processed": 1077,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普又抛歪理：都怪尼克松引出中国这个强敌",
@@ -42,6 +42,17 @@
           "time_info": "[00时15分 ~ 12时18分]"
         },
         {
+          "title": "特朗普三戏泽连斯基",
+          "url": "https://news.ifeng.com/c/8nZesUA4YSo",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时15分 ~ 19时12分]"
+        },
+        {
           "title": "特朗普为他减刑，共和党前“丑闻议员”桑托斯出狱",
           "url": "https://news.ifeng.com/c/8nYKfvcps5g",
           "source": "凤凰网",
@@ -63,8 +74,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时12分 ~ 18时15分]"
+          "appearance_count": 12,
+          "time_info": "[11时12分 ~ 19时12分]"
         },
         {
           "title": "美媒：美方正商讨安排特朗普与金正恩会晤",
@@ -76,19 +87,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时09分 ~ 18时15分]"
-        },
-        {
-          "title": "特朗普三戏泽连斯基",
-          "url": "https://news.ifeng.com/c/8nZesUA4YSo",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时15分 ~ 18时15分]"
+          "appearance_count": 13,
+          "time_info": "[09时09分 ~ 19时12分]"
         },
         {
           "title": "辣眼睛！特朗普发布AI视频：头戴皇冠，开战斗机向抗议者洒大便",
@@ -111,8 +111,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时15分 ~ 18时15分]"
+          "appearance_count": 25,
+          "time_info": "[00时15分 ~ 19时12分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：计划一到两周内做关于人工智能的演讲。特朗普仍然希望政府关门问题得到友好解决。政府关门将导致几乎除了国防之外的任何事情停摆。",
@@ -137,6 +137,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时15分 ~ 07时13分]"
+        },
+        {
+          "title": "全美700万人上街抗议特朗普",
+          "url": "https://www.douyin.com/hot/2274982",
+          "source": "抖音",
+          "ranks": [
+            6,
+            1,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时26分 ~ 19时12分]"
         },
         {
           "title": "普京和特朗普选在匈牙利见面，“欧盟很尴尬”",
@@ -197,8 +211,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时15分 ~ 18时15分]"
+          "appearance_count": 25,
+          "time_info": "[00时15分 ~ 19时12分]"
         },
         {
           "title": "特朗普团队曾商议亚洲行会晤金正恩",
@@ -259,20 +273,6 @@
           "time_info": "[00时15分 ~ 06时13分]"
         },
         {
-          "title": "全美700万人上街抗议特朗普",
-          "url": "https://www.douyin.com/hot/2274982",
-          "source": "抖音",
-          "ranks": [
-            6,
-            1,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时26分 ~ 18时15分]"
-        },
-        {
           "title": "匈牙利欧洲议会议员：欧洲政客感到被“特朗普爸爸”忽视了",
           "url": "https://news.ifeng.com/c/8nZlMrsz6GV",
           "source": "凤凰网",
@@ -309,6 +309,17 @@
           "time_info": "[00时15分 ~ 07时13分]"
         },
         {
+          "title": "特朗普发布AI恶搞视频，驾驶战斗机向示威者泼粪",
+          "url": "https://news.ifeng.com/c/8na1AOphcs7",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 19时12分]"
+        },
+        {
           "title": "多家韩企掌门人与特朗普打高尔夫球",
           "url": "https://www.toutiao.com/trending/7562416604081061915/",
           "source": "今日头条",
@@ -318,17 +329,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时26分 ~ 14时27分]"
-        },
-        {
-          "title": "特朗普发布AI恶搞视频，驾驶战斗机向示威者泼粪",
-          "url": "https://news.ifeng.com/c/8na1AOphcs7",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
         },
         {
           "title": "英媒：特朗普命令在委海岸集结军力，意在迫使马杜罗下台",
@@ -366,11 +366,23 @@
           "source": "百度热搜",
           "ranks": [
             5,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时13分 ~ 18时15分]"
+          "appearance_count": 4,
+          "time_info": "[17时13分 ~ 19时12分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-19）",
+          "url": "https://flash.jin10.com/detail/20251019180608570800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "美媒：普京在与特朗普的通话中“要求乌克兰交出关键领土”",
@@ -488,6 +500,18 @@
           "time_info": "[11时12分 ~ 12时18分]"
         },
         {
+          "title": "特朗普发布AI视频向抗议者洒粪",
+          "url": "https://www.toutiao.com/trending/7562522819947511850/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 19时12分]"
+        },
+        {
           "title": "特朗普口中的美军行动有多离谱",
           "url": "https://www.toutiao.com/trending/7562814748509605430/",
           "source": "今日头条",
@@ -520,17 +544,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时10分 ~ 01时11分]"
-        },
-        {
-          "title": "特朗普发布AI视频向抗议者洒粪",
-          "url": "https://www.toutiao.com/trending/7562522819947511850/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
         }
       ]
     },
@@ -586,11 +599,12 @@
           "url": "https://flash.jin10.com/detail/20251019175330077800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 19时12分]"
         },
         {
           "title": "金价涨了，印度人节日买金习惯变了",
@@ -601,8 +615,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时13分 ~ 18时15分]"
+          "appearance_count": 4,
+          "time_info": "[17时13分 ~ 19时12分]"
         },
         {
           "title": "金价银价创新高后跳水，白银跌超 6%，黄金跌破 4200 美元，如何看待此次调整？白银能否打破 50 美元魔咒？",
@@ -612,8 +626,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时13分 ~ 18时15分]"
+          "appearance_count": 4,
+          "time_info": "[17时13分 ~ 19时12分]"
         },
         {
           "title": "金价狂飙 “租三金”结婚成新选择",
@@ -623,8 +637,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时13分 ~ 18时15分]"
+          "appearance_count": 4,
+          "time_info": "[17时13分 ~ 19时12分]"
         }
       ]
     },
@@ -642,8 +656,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时15分 ~ 18时15分]"
+          "appearance_count": 25,
+          "time_info": "[00时15分 ~ 19时12分]"
         },
         {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
@@ -677,9 +691,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 19时12分]"
         },
         {
           "title": "韩国散户押注杠杆VIX ，对冲美股高估值风险",

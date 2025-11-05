@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T11:08:10.506734+08:00",
-  "total_titles_processed": 950,
+  "generated_at": "2025-11-05T12:18:16.801949+08:00",
+  "total_titles_processed": 1063,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时07分 ~ 11时08分]"
+          "appearance_count": 4,
+          "time_info": "[11时07分 ~ 12时18分]"
         },
         {
           "title": "特朗普突然威胁对尼日利亚动武，就因为他看了条福克斯新闻报道",
@@ -54,8 +54,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时07分 ~ 11时08分]"
+          "appearance_count": 3,
+          "time_info": "[11时07分 ~ 12时17分]"
         },
         {
           "title": "美国总统特朗普：我很高兴提名贾里德·艾萨克曼为美国国家航空航天局的局长。",
@@ -89,6 +89,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
+          "url": "https://wallstreetcn.com/articles/3758648",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时06分 ~ 12时18分]"
         },
         {
           "title": "巴西总统卢拉：已向特朗普表明拉丁美洲是“和平地带”",
@@ -224,18 +236,6 @@
           "time_info": "[03时14分 ~ 04时17分]"
         },
         {
-          "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
-          "url": "https://wallstreetcn.com/articles/3758648",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时06分 ~ 11时08分]"
-        },
-        {
           "title": "据华尔街日报：特朗普政府正与礼来公司和诺和诺德谈判，计划通过TrumpRx（特朗普药房）处方药直销平台以优惠价格提供减肥药物。",
           "url": "https://flash.jin10.com/detail/20251105032507471800",
           "source": "金十数据",
@@ -258,6 +258,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 07时14分]"
+        },
+        {
+          "title": "美国前财长称特朗普动用紧急权力课关税的做法“有毛病”",
+          "url": "https://wallstreetcn.com/livenews/2999566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时08分 ~ 12时18分]"
         },
         {
           "title": "美媒：特朗普政府考虑控制委内瑞拉油田",
@@ -332,17 +344,6 @@
           "time_info": "[01时14分 ~ 02时21分]"
         },
         {
-          "title": "美国前财长称特朗普动用紧急权力课关税的做法“有毛病”",
-          "url": "https://wallstreetcn.com/livenews/2999566",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时08分"
-        },
-        {
           "title": "特朗普称最高法院关税案关乎美国存亡",
           "url": "https://flash.jin10.com/detail/20251105060423187800",
           "source": "金十数据",
@@ -360,7 +361,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
         },
@@ -382,7 +383,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
         },
@@ -467,7 +468,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -503,8 +504,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时06分 ~ 11时08分]"
+          "appearance_count": 5,
+          "time_info": "[09时06分 ~ 12时18分]"
         },
         {
           "title": "美股收盘：“大空头”点燃估值忧虑 纳指跌超2%",
@@ -515,19 +516,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时14分 ~ 11时08分]"
+          "appearance_count": 6,
+          "time_info": "[07时14分 ~ 12时18分]"
         },
         {
           "title": "全球风险资产遭遇黑色星期二，美股全线大跌，黄金下破 3930 美元，比特币跌破 10.3 万美元，发生了什么？",
           "url": "https://www.zhihu.com/question/1969182296755122552",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时07分 ~ 11时08分]"
+          "appearance_count": 4,
+          "time_info": "[11时07分 ~ 12时18分]"
         },
         {
           "title": "美股期货跌幅扩大，标普500指数期货现跌0.5%，纳斯达克100指数期货跌0.7%。",
@@ -572,6 +574,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "突发！美股AI泡沫恐慌情绪蔓延 日韩股市崩盘",
+          "url": "https://www.cls.cn/detail/2191349",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时07分 ~ 12时18分]"
         },
         {
           "title": "金十图示：2025年11月04日（周二）热门中概股行情一览（美股盘中）",
@@ -633,24 +647,13 @@
           "time_info": "[06时14分 ~ 07时14分]"
         },
         {
-          "title": "突发！美股AI泡沫恐慌情绪蔓延 日韩股市崩盘",
-          "url": "https://www.cls.cn/detail/2191349",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时07分 ~ 11时08分]"
-        },
-        {
           "title": "美联储内部分歧引发年内降息前景疑虑，美元走强致现货黄金一度跌破3920美元关口；隔夜美股大跌，投资者怀疑高估值与市场集中度过窄会否终结本轮牛市行情，当前美股纳指、标普500指数卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20251105103351647800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
         },
@@ -686,6 +689,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "金十整理：美股“一夜变天”，华尔街对美股未来走势争论不休",
+          "url": "https://flash.jin10.com/detail/20251105113353093800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
         },
         {
           "title": "美股收盘：百度涨超3%",
@@ -727,9 +741,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
+        },
+        {
+          "title": "凯投宏观：亚洲股市回调是对美股下跌的直接反映 对后续抛售加剧存疑",
+          "url": "https://flash.jin10.com/detail/20251105111647625800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
         },
         {
           "title": "行业ETF美股盘初普遍下跌，半导体ETF大跌2.32%，全球科技股指数ETF跌2.16%，科技行业ETF跌2.13%，网络股指数ETF跌1.76%，能源业ETF跌1.75%。",
@@ -793,6 +818,18 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "亚马逊清仓AMD 谷歌将测试太空数据中心构想 | 环球市场",
+          "url": "https://www.cls.cn/detail/2191270",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时06分 ~ 12时18分]"
+        },
+        {
           "title": "谷歌(GOOG.O)：宣布与Planet公司合作开展一项学习任务，计划于2027年初前发射两颗原型卫星，以在轨测试我们的硬件。",
           "url": "https://flash.jin10.com/detail/20251105010853039800",
           "source": "金十数据",
@@ -829,18 +866,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时17分 ~ 05时14分]"
-        },
-        {
-          "title": "亚马逊清仓AMD 谷歌将测试太空数据中心构想 | 环球市场",
-          "url": "https://www.cls.cn/detail/2191270",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时06分 ~ 11时08分]"
         },
         {
           "title": "据网络状况监测网站DownDetector：用户报告显示，截至美东时间上午11:51（北京时间00:51），美国有1650名用户遭遇谷歌服务中断。",
@@ -913,7 +938,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
         },
@@ -995,7 +1020,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI 被传禁止 ChatGPT 提供专业医疗法律金融建议后表示说法不实，这些建议应该被禁止吗？",
@@ -1005,8 +1030,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时07分 ~ 11时08分]"
+          "appearance_count": 4,
+          "time_info": "[11时07分 ~ 12时18分]"
         },
         {
           "title": "OpenAI 禁止 ChatGPT 提供专业医疗、法律、金融建议，这背后的原因是什么？",
@@ -1018,6 +1043,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        },
+        {
+          "title": "软银和OpenAI将于11月成立新公司。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/2999584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
         }
       ]
     },

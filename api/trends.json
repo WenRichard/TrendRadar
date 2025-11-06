@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T19:13:53.923208+08:00",
-  "total_titles_processed": 1711,
+  "generated_at": "2025-11-06T20:29:00.094419+08:00",
+  "total_titles_processed": 1840,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 59,
       "titles": [
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
@@ -17,8 +17,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时04分 ~ 19时13分]"
+          "appearance_count": 14,
+          "time_info": "[09时04分 ~ 20时28分]"
+        },
+        {
+          "title": "特朗普：美国第一，俄罗斯第二，中国第三",
+          "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时15分 ~ 20时28分]"
         },
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
@@ -31,18 +44,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时18分 ~ 12时21分]"
-        },
-        {
-          "title": "特朗普：美国第一，俄罗斯第二，中国第三",
-          "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时15分 ~ 19时13分]"
         },
         {
           "title": "就在今天，特朗普任期首次重大选举！市场将获得重要数据，预判明年美国“中选”格局",
@@ -105,8 +106,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[05时15分 ~ 19时13分]"
+          "appearance_count": 19,
+          "time_info": "[05时15分 ~ 20时28分]"
         },
         {
           "title": "全球瞩目！美国最高法院将审理特朗普关税案",
@@ -191,6 +192,17 @@
           "time_info": "00时19分"
         },
         {
+          "title": "特朗普为什么总是针对南非？",
+          "url": "https://news.ifeng.com/c/8o3ygttojoa",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
           "title": "特朗普再次对尼日利亚发出威胁",
           "url": "https://flash.jin10.com/detail/20251106061021528800",
           "source": "金十数据",
@@ -219,7 +231,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -663,6 +675,17 @@
           "time_info": "06时16分"
         },
         {
+          "title": "特朗普重申不会出席G20峰会",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E7%94%B3%E4%B8%8D%E4%BC%9A%E5%87%BA%E5%B8%ADG20%E5%B3%B0%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
           "title": "克里姆林宫：普京和特朗普之间没有计划在不久的将来进行对话。",
           "url": "https://flash.jin10.com/detail/20251106010258019800",
           "source": "金十数据",
@@ -927,7 +950,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -1140,7 +1163,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -1279,7 +1302,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "澳大利亚贸易顺差受金价飙升推动",
@@ -1314,6 +1337,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时04分 ~ 09时05分]"
+        },
+        {
+          "title": "金价一波大涨过后，为何三四线城市金店先撑不住了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31906822",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         },
         {
           "title": "中信证券：金价仍将上行",
@@ -1386,8 +1420,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时04分 ~ 19时13分]"
+          "appearance_count": 14,
+          "time_info": "[09时04分 ~ 20时28分]"
         },
         {
           "title": "美债收益率继续上涨，10年期收益率日内涨6.6个基点，报4.157%。",

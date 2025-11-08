@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T12:16:56.765668+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2025-11-08T13:15:16.188846+08:00",
+  "total_titles_processed": 979,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
         {
           "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时02分 ~ 12时16分]"
+          "appearance_count": 8,
+          "time_info": "[09时02分 ~ 13时15分]"
         },
         {
           "title": "特朗普痛骂佩洛西",
@@ -81,16 +81,44 @@
           "time_info": "00时16分"
         },
         {
+          "title": "特朗普达成减肥药降价计划，“美民众一年将合计减重5600万公斤”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31916480",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时02分 ~ 13时15分]"
+        },
+        {
+          "title": "最高法院暂准特朗普政府官员限制补充营养援助计划（SNAP）的食品援助。",
+          "url": "https://wallstreetcn.com/livenews/3001469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时27分 ~ 13时15分]"
+        },
+        {
           "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
           "url": "https://flash.jin10.com/detail/20251108105346756800",
           "source": "金十数据",
           "ranks": [
             2,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 12时16分]"
+          "appearance_count": 3,
+          "time_info": "[11时34分 ~ 13时15分]"
         },
         {
           "title": "美国总统特朗普：没有哪个国家在经济方面能接近美国。",
@@ -104,19 +132,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时20分 ~ 04时16分]"
-        },
-        {
-          "title": "最高法院暂准特朗普政府官员限制补充营养援助计划（SNAP）的食品援助。",
-          "url": "https://wallstreetcn.com/livenews/3001469",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时27分 ~ 12时16分]"
         },
         {
           "title": "美国总统特朗普：通胀处于一个完美的水平。",
@@ -170,6 +185,19 @@
           "time_info": "[03时12分 ~ 05时13分]"
         },
         {
+          "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
+          "url": "https://wallstreetcn.com/livenews/3001478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时34分 ~ 13时15分]"
+        },
+        {
           "title": "美国总统特朗普：我们一致认为，俄乌冲突将在不久的将来结束。",
           "url": "https://flash.jin10.com/detail/20251108020524732800",
           "source": "金十数据",
@@ -206,28 +234,18 @@
           "time_info": "[02时20分 ~ 03时12分]"
         },
         {
-          "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
-          "url": "https://wallstreetcn.com/livenews/3001478",
-          "source": "华尔街见闻-快讯",
+          "title": "美国法官裁定，特朗普下令国民警卫队前往俄勒冈州波特兰市属非法。",
+          "url": "https://flash.jin10.com/detail/20251108090128912800",
+          "source": "金十数据",
           "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 12时16分]"
-        },
-        {
-          "title": "特朗普达成减肥药降价计划，“美民众一年将合计减重5600万公斤”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31916480",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
+            10,
+            19,
+            24,
+            29
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时02分 ~ 12时16分]"
+          "time_info": "[10时27分 ~ 13时15分]"
         },
         {
           "title": "美国总统特朗普：考虑在“制裁俄罗斯石油”方面实施豁免。 考虑对匈牙利实施豁免。",
@@ -243,17 +261,17 @@
           "time_info": "[02时20分 ~ 04时16分]"
         },
         {
-          "title": "美国法官裁定，特朗普下令国民警卫队前往俄勒冈州波特兰市属非法。",
-          "url": "https://flash.jin10.com/detail/20251108090128912800",
+          "title": "美国最高法院目前允许特朗普政府扣留数十亿美元的食品援助资金。",
+          "url": "https://flash.jin10.com/detail/20251108101917094800",
           "source": "金十数据",
           "ranks": [
-            10,
-            19,
-            24
+            9,
+            14,
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时27分 ~ 12时16分]"
+          "time_info": "[11时34分 ~ 13时15分]"
         },
         {
           "title": "美国总统特朗普：现在是共和党参议员停止与激进左派民主党人玩弄把戏的时候了，立即终止阻挠议事，立即开放政府，并通过一些具有常识的伟大立法！",
@@ -314,18 +332,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时20分 ~ 03时12分]"
-        },
-        {
-          "title": "美国最高法院目前允许特朗普政府扣留数十亿美元的食品援助资金。",
-          "url": "https://flash.jin10.com/detail/20251108101917094800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 12时16分]"
         },
         {
           "title": "美国总统特朗普：在达成临时开支立法草案之前，参议院成员们都不应该离开华盛顿特区（国会山所在地）。",
@@ -445,6 +451,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时26分 ~ 10时27分]"
+        },
+        {
+          "title": "特朗普下令调查几家最大肉类加工商",
+          "url": "https://www.toutiao.com/trending/7570176156171767346/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 13时15分]"
         },
         {
           "title": "特朗普：希望在布达佩斯与普京会晤",
@@ -605,8 +622,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时14分 ~ 12时16分]"
+          "appearance_count": 9,
+          "time_info": "[07时14分 ~ 13时15分]"
         },
         {
           "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
@@ -618,8 +635,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时16分 ~ 12时16分]"
+          "appearance_count": 16,
+          "time_info": "[00时16分 ~ 13时15分]"
         },
         {
           "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
@@ -656,6 +673,20 @@
           "time_info": "01时13分"
         },
         {
+          "title": "中信证券：基本面支撑美股韧性 短期扰动难逆上行趋势",
+          "url": "https://flash.jin10.com/detail/20251108100037476800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            14,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时27分 ~ 13时15分]"
+        },
+        {
           "title": "航空业ETF收涨约2.2%，领跑美股行业ETF，本周全球科技股指数ETF跌4.7%",
           "url": "https://wallstreetcn.com/livenews/3001428",
           "source": "华尔街见闻-快讯",
@@ -666,19 +697,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时14分 ~ 09时03分]"
-        },
-        {
-          "title": "中信证券：基本面支撑美股韧性 短期扰动难逆上行趋势",
-          "url": "https://flash.jin10.com/detail/20251108100037476800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时27分 ~ 12时16分]"
         },
         {
           "title": "中信证券：基本面支撑美股韧性 短期扰动难逆上行趋势",
@@ -810,11 +828,12 @@
           "ranks": [
             2,
             14,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时27分 ~ 12时16分]"
+          "appearance_count": 4,
+          "time_info": "[10时27分 ~ 13时15分]"
         },
         {
           "title": "以色列方面称挫败了一起针对其驻墨西哥大使的阴谋，并表示该阴谋“由伊朗指使”。",
@@ -937,11 +956,12 @@
           "url": "https://flash.jin10.com/detail/20251108112121105800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 13时15分]"
         }
       ]
     },

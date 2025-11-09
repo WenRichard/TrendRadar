@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-09T21:21:11.940104+08:00",
-  "total_titles_processed": 1193,
+  "generated_at": "2025-11-09T22:13:46.745677+08:00",
+  "total_titles_processed": 1255,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "拜登狠批特朗普",
@@ -32,8 +32,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时17分 ~ 21时21分]"
+          "appearance_count": 15,
+          "time_info": "[12时17分 ~ 22时13分]"
         },
         {
           "title": "SNAP福利60年来首次中断！美最高法院批准特朗普暂扣40亿美元食品援助",
@@ -89,6 +89,18 @@
           "time_info": "[00时16分 ~ 15时13分]"
         },
         {
+          "title": "“特朗普外交政策，万变不离中国”",
+          "url": "https://news.ifeng.com/c/8o8e3UWF1zn",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时13分 ~ 22时13分]"
+        },
+        {
           "title": "南非政府发表声明驳斥特朗普言论",
           "url": "https://news.ifeng.com/c/8o7E8T6RYDN",
           "source": "凤凰网",
@@ -116,18 +128,6 @@
           "time_info": "[00时16分 ~ 09时08分]"
         },
         {
-          "title": "“特朗普外交政策，万变不离中国”",
-          "url": "https://news.ifeng.com/c/8o8e3UWF1zn",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时13分 ~ 21时21分]"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-08）",
           "url": "https://flash.jin10.com/detail/20251108183318165800",
           "source": "金十数据",
@@ -148,11 +148,12 @@
             5,
             7,
             18,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时14分 ~ 21时21分]"
+          "appearance_count": 6,
+          "time_info": "[17时14分 ~ 22时13分]"
         },
         {
           "title": "塞尔维亚拆北约轰炸遗址建特朗普酒店",
@@ -189,11 +190,12 @@
           "ranks": [
             1,
             2,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时11分 ~ 21时21分]"
+          "appearance_count": 4,
+          "time_info": "[19时11分 ~ 22时13分]"
         },
         {
           "title": "拜登狠批特朗普",
@@ -227,22 +229,23 @@
           "ranks": [
             3,
             4,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时11分 ~ 21时21分]"
+          "appearance_count": 4,
+          "time_info": "[19时11分 ~ 22时13分]"
         },
         {
-          "title": "特朗普：反对关税的人是“蠢材”！美国现在是世界上最富有的国家",
-          "url": "https://flash.jin10.com/detail/20251109203040228800",
+          "title": "特朗普炮轰美最高法院 为自己的关税政策激烈辩护",
+          "url": "https://flash.jin10.com/detail/20251109213351299800",
           "source": "金十数据",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时21分"
+          "time_info": "22时13分"
         },
         {
           "title": "俄外长：不清楚特朗普的“恢复核试验”是啥意思",
@@ -256,15 +259,28 @@
           "time_info": "15时13分"
         },
         {
+          "title": "特朗普：反对关税的人是“蠢材”！美国现在是世界上最富有的国家",
+          "url": "https://flash.jin10.com/detail/20251109203040228800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时21分 ~ 22时13分]"
+        },
+        {
           "title": "美国总统特朗普：奥巴马医改“糟透了”，这是价格最高但质量最差的医疗体系。",
           "url": "https://flash.jin10.com/detail/20251109201626112800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时21分 ~ 22时13分]"
         },
         {
           "title": "媒体：未经立法，特朗普团队秘密向超级富有企业提供大规模税收减免",
@@ -304,6 +320,18 @@
           "time_info": "[19时10分 ~ 19时11分]"
         },
         {
+          "title": "特朗普：共和党人应废除冗长辩论程序 让政府停摆结束",
+          "url": "https://flash.jin10.com/detail/20251109201217511800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时21分 ~ 22时13分]"
+        },
+        {
           "title": "若特朗普关税政策被推翻市场如何反应",
           "url": "https://www.toutiao.com/trending/7570562355289919026/",
           "source": "今日头条",
@@ -325,17 +353,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时07分 ~ 09时08分]"
-        },
-        {
-          "title": "特朗普：共和党人应废除冗长辩论程序 让政府停摆结束",
-          "url": "https://flash.jin10.com/detail/20251109201217511800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
         },
         {
           "title": "特朗普开始调整“话术”以争取选民",
@@ -477,11 +494,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时13分 ~ 21时21分]"
+          "appearance_count": 8,
+          "time_info": "[18时13分 ~ 22时13分]"
         },
         {
           "title": "左手黄金右手美股就能对冲风险吗？原中金首席风险官李祥林教你用衍生品辨别应对“黑天鹅”",
@@ -510,8 +528,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时14分 ~ 21时21分]"
+          "appearance_count": 9,
+          "time_info": "[17时14分 ~ 22时13分]"
         }
       ]
     },

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T12:22:59.598992+08:00",
-  "total_titles_processed": 860,
+  "generated_at": "2025-11-10T13:16:10.957068+08:00",
+  "total_titles_processed": 926,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "若特朗普“对等关税”被推翻，市场会如何反应？",
@@ -20,6 +20,18 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时15分 ~ 11时17分]"
+        },
+        {
+          "title": "特朗普宣布一个大消息",
+          "url": "https://news.ifeng.com/c/8o9xDTJ6QQT",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时08分 ~ 13时16分]"
         },
         {
           "title": "“特朗普外交政策，万变不离中国”",
@@ -43,17 +55,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时15分 ~ 09时09分]"
-        },
-        {
-          "title": "特朗普宣布一个大消息",
-          "url": "https://news.ifeng.com/c/8o9xDTJ6QQT",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时08分 ~ 12时22分]"
         },
         {
           "title": "特朗普提名约翰·科尔为美国驻白俄罗斯特使",
@@ -106,6 +107,43 @@
           "time_info": "[11时17分 ~ 12时22分]"
         },
         {
+          "title": "泽连斯基：全世界都怕特朗普但我不怕",
+          "url": "https://www.toutiao.com/trending/7569890031507144723/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时16分]"
+        },
+        {
+          "title": "牛弹琴：特朗普宣布一个大消息",
+          "url": "https://www.toutiao.com/trending/7570877314167213595/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时08分 ~ 13时16分]"
+        },
+        {
+          "title": "特朗普被严重警告",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E4%B8%A5%E9%87%8D%E8%AD%A6%E5%91%8A",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时08分 ~ 13时16分]"
+        },
+        {
           "title": "美国政府停摆 特朗普享乐被痛批",
           "url": "https://www.toutiao.com/trending/7569948276263731251/",
           "source": "今日头条",
@@ -118,6 +156,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时13分 ~ 06时15分]"
+        },
+        {
+          "title": "特朗普宣布一个大消息",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E4%B8%80%E4%B8%AA%E5%A4%A7%E6%B6%88%E6%81%AF",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时08分 ~ 13时16分]"
         },
         {
           "title": "特朗普炮轰美最高法院 为自己的关税政策激烈辩护",
@@ -246,6 +296,18 @@
           "time_info": "[06时15分 ~ 07时13分]"
         },
         {
+          "title": "每人2000美元？特朗普扬言要撒“关税红利”，贝森特暗示通过减税实现！",
+          "url": "https://www.cls.cn/detail/2195415",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时17分 ~ 13时16分]"
+        },
+        {
           "title": "特朗普称关税将使大多数美国人获得至少2000美元补助",
           "url": "https://flash.jin10.com/detail/20251110042444036800",
           "source": "金十数据",
@@ -259,30 +321,6 @@
           "time_info": "[05时12分 ~ 07时13分]"
         },
         {
-          "title": "牛弹琴：特朗普宣布一个大消息",
-          "url": "https://www.toutiao.com/trending/7570877314167213595/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时08分 ~ 12时22分]"
-        },
-        {
-          "title": "特朗普被严重警告",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E4%B8%A5%E9%87%8D%E8%AD%A6%E5%91%8A",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时08分 ~ 12时22分]"
-        },
-        {
           "title": "参议院公布三项立法草案，作为结束特朗普政府停摆提案的一部分",
           "url": "https://wallstreetcn.com/livenews/3001731",
           "source": "华尔街见闻-快讯",
@@ -293,18 +331,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时13分]"
-        },
-        {
-          "title": "特朗普宣布一个大消息",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E4%B8%80%E4%B8%AA%E5%A4%A7%E6%B6%88%E6%81%AF",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时08分 ~ 12时22分]"
         },
         {
           "title": "美国共和党的开支草案包含扭转（政府关门期间实施的）裁员行动的条款。 总统特朗普的白宫支持参议院共和党（最新提出）的开支框架。（PunchBowl）",
@@ -333,18 +359,6 @@
           "time_info": "[05时12分 ~ 07时13分]"
         },
         {
-          "title": "每人2000美元？特朗普扬言要撒“关税红利”，贝森特暗示通过减税实现！",
-          "url": "https://www.cls.cn/detail/2195415",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时17分 ~ 12时22分]"
-        },
-        {
           "title": "因剪辑拼接与1月6日国会山暴乱相关的特朗普视频，英国BBC高管辞职",
           "url": "https://wallstreetcn.com/livenews/3001718",
           "source": "华尔街见闻-快讯",
@@ -355,6 +369,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时12分 ~ 06时15分]"
+        },
+        {
+          "title": "专家：特朗普发钱一箭三雕",
+          "url": "https://www.toutiao.com/trending/7570931158150565427/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时16分]"
         },
         {
           "title": "特朗普：美政府“停摆”接近结束",
@@ -452,8 +477,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时15分 ~ 12时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时15分 ~ 13时16分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -463,19 +488,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时17分 ~ 12时22分]"
+          "appearance_count": 4,
+          "time_info": "[11时17分 ~ 13时16分]"
         },
         {
           "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
           "url": "https://wallstreetcn.com/articles/3759018",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 13时16分]"
         }
       ]
     },
@@ -489,11 +515,12 @@
           "source": "微博",
           "ranks": [
             24,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时17分 ~ 12时22分]"
+          "appearance_count": 4,
+          "time_info": "[11时17分 ~ 13时16分]"
         },
         {
           "title": "金十图示：2025年11月10日（周一）上海金早盘价为926.44元/克，较国际金价(926.8元/克)，低0.36元/克",
@@ -502,7 +529,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         }

@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-10T13:16:10.957068+08:00",
-  "total_titles_processed": 926,
+  "generated_at": "2025-11-10T14:24:09.440294+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
+        {
+          "title": "特朗普宣布一个大消息",
+          "url": "https://news.ifeng.com/c/8o9xDTJ6QQT",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时08分 ~ 14时24分]"
+        },
         {
           "title": "若特朗普“对等关税”被推翻，市场会如何反应？",
           "url": "https://wallstreetcn.com/articles/3758981",
@@ -20,18 +32,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时15分 ~ 11时17分]"
-        },
-        {
-          "title": "特朗普宣布一个大消息",
-          "url": "https://news.ifeng.com/c/8o9xDTJ6QQT",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时08分 ~ 13时16分]"
         },
         {
           "title": "“特朗普外交政策，万变不离中国”",
@@ -55,6 +55,18 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时15分 ~ 09时09分]"
+        },
+        {
+          "title": "泽连斯基：全世界都怕特朗普但我不怕",
+          "url": "https://www.toutiao.com/trending/7569890031507144723/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 14时24分]"
         },
         {
           "title": "特朗普提名约翰·科尔为美国驻白俄罗斯特使",
@@ -95,6 +107,20 @@
           "time_info": "[00时16分 ~ 06时15分]"
         },
         {
+          "title": "牛弹琴：特朗普宣布一个大消息",
+          "url": "https://www.toutiao.com/trending/7570877314167213595/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            7,
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时08分 ~ 14时24分]"
+        },
+        {
           "title": "特朗普称政府停摆接近结束",
           "url": "https://news.ifeng.com/c/8oA5auenpcB",
           "source": "凤凰网",
@@ -107,28 +133,16 @@
           "time_info": "[11时17分 ~ 12时22分]"
         },
         {
-          "title": "泽连斯基：全世界都怕特朗普但我不怕",
-          "url": "https://www.toutiao.com/trending/7569890031507144723/",
-          "source": "今日头条",
+          "title": "每人2000美元？特朗普扬言要撒“关税红利”，贝森特暗示通过减税实现！",
+          "url": "https://www.cls.cn/detail/2195415",
+          "source": "财联社热门",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 13时16分]"
-        },
-        {
-          "title": "牛弹琴：特朗普宣布一个大消息",
-          "url": "https://www.toutiao.com/trending/7570877314167213595/",
-          "source": "今日头条",
-          "ranks": [
-            24,
             7,
-            9
+            6
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时08分 ~ 13时16分]"
+          "time_info": "[11时17分 ~ 14时24分]"
         },
         {
           "title": "特朗普被严重警告",
@@ -296,18 +310,6 @@
           "time_info": "[06时15分 ~ 07时13分]"
         },
         {
-          "title": "每人2000美元？特朗普扬言要撒“关税红利”，贝森特暗示通过减税实现！",
-          "url": "https://www.cls.cn/detail/2195415",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时17分 ~ 13时16分]"
-        },
-        {
           "title": "特朗普称关税将使大多数美国人获得至少2000美元补助",
           "url": "https://flash.jin10.com/detail/20251110042444036800",
           "source": "金十数据",
@@ -331,6 +333,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时13分]"
+        },
+        {
+          "title": "专家：特朗普发钱一箭三雕",
+          "url": "https://www.toutiao.com/trending/7570931158150565427/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 14时24分]"
         },
         {
           "title": "美国共和党的开支草案包含扭转（政府关门期间实施的）裁员行动的条款。 总统特朗普的白宫支持参议院共和党（最新提出）的开支框架。（PunchBowl）",
@@ -371,17 +385,6 @@
           "time_info": "[05时12分 ~ 06时15分]"
         },
         {
-          "title": "专家：特朗普发钱一箭三雕",
-          "url": "https://www.toutiao.com/trending/7570931158150565427/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 13时16分]"
-        },
-        {
           "title": "特朗普：美政府“停摆”接近结束",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E6%94%BF%E5%BA%9C%E2%80%9C%E5%81%9C%E6%91%86%E2%80%9D%E6%8E%A5%E8%BF%91%E7%BB%93%E6%9D%9F",
           "source": "百度热搜",
@@ -392,6 +395,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时17分 ~ 12时22分]"
+        },
+        {
+          "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31930491",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时23分 ~ 14时24分]"
+        },
+        {
+          "title": "如何看待特朗普要给美国民众发钱",
+          "url": "https://www.toutiao.com/trending/7570944913760587274/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时23分 ~ 14时24分]"
         },
         {
           "title": "拜登狠批特朗普：让国家蒙羞",
@@ -477,19 +502,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时15分 ~ 13时16分]"
+          "appearance_count": 19,
+          "time_info": "[00时15分 ~ 14时24分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%B8%85%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
           "source": "bilibili 热搜",
           "ranks": [
-            10
+            10,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时17分 ~ 13时16分]"
+          "appearance_count": 6,
+          "time_info": "[11时17分 ~ 14时24分]"
         },
         {
           "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
@@ -497,11 +523,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 13时16分]"
+          "appearance_count": 5,
+          "time_info": "[12时22分 ~ 14时24分]"
         }
       ]
     },
@@ -516,11 +543,12 @@
           "ranks": [
             24,
             22,
-            25
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时17分 ~ 13时16分]"
+          "appearance_count": 6,
+          "time_info": "[11时17分 ~ 14时24分]"
         },
         {
           "title": "金十图示：2025年11月10日（周一）上海金早盘价为926.44元/克，较国际金价(926.8元/克)，低0.36元/克",

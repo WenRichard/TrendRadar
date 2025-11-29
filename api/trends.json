@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T16:19:09.199443+08:00",
-  "total_titles_processed": 1050,
+  "generated_at": "2025-11-29T17:14:42.732728+08:00",
+  "total_titles_processed": 1123,
   "failed_sources": [],
   "trends": [
     {
@@ -313,6 +313,21 @@
           "time_info": "[00时17分 ~ 06时13分]"
         },
         {
+          "title": "美股收盘：三大指数连涨五个交易日 英特尔股价暴升10%",
+          "url": "https://www.cls.cn/detail/2214656",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时14分 ~ 17时14分]"
+        },
+        {
           "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
           "url": "https://www.cls.cn/detail/2214556",
           "source": "财联社热门",
@@ -323,20 +338,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时17分 ~ 16时19分]"
-        },
-        {
-          "title": "美股收盘：三大指数连涨五个交易日 英特尔股价暴升10%",
-          "url": "https://www.cls.cn/detail/2214656",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时14分 ~ 16时19分]"
         },
         {
           "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览（美股收盘）",
@@ -577,8 +578,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时07分 ~ 16时19分]"
+          "appearance_count": 8,
+          "time_info": "[11时07分 ~ 17时14分]"
         },
         {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
@@ -586,11 +587,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时14分 ~ 16时19分]"
+          "appearance_count": 6,
+          "time_info": "[13时14分 ~ 17时14分]"
         }
       ]
     },
@@ -608,8 +610,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时14分 ~ 16时19分]"
+          "appearance_count": 6,
+          "time_info": "[13时14分 ~ 17时14分]"
         },
         {
           "title": "金价",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T13:15:43.255274+08:00",
-  "total_titles_processed": 1044,
+  "generated_at": "2025-12-02T14:24:12.307141+08:00",
+  "total_titles_processed": 1120,
   "failed_sources": [],
   "trends": [
     {
@@ -45,11 +45,23 @@
             16,
             17,
             13,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时20分 ~ 13时15分]"
+          "appearance_count": 17,
+          "time_info": "[00时20分 ~ 14时24分]"
+        },
+        {
+          "title": "“即将宣布”，特朗普称已选定下任美联储主席",
+          "url": "https://news.ifeng.com/c/8okTPLnScLu",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时06分 ~ 14时24分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将于周二主持内阁会议。",
@@ -102,17 +114,6 @@
           "time_info": "[03时17分 ~ 05时13分]"
         },
         {
-          "title": "“即将宣布”，特朗普称已选定下任美联储主席",
-          "url": "https://news.ifeng.com/c/8okTPLnScLu",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时06分 ~ 13时15分]"
-        },
-        {
           "title": "美国总统特朗普：任何事情都不应妨碍叙利亚的改变。",
           "url": "https://flash.jin10.com/detail/20251201235818685800",
           "source": "金十数据",
@@ -159,6 +160,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时24分 ~ 03时17分]"
+        },
+        {
+          "title": "特朗普面临支持率“大麻烦”",
+          "url": "https://www.toutiao.com/trending/7578565783584784438/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时15分 ~ 14时24分]"
         },
         {
           "title": "美国总统特朗普：以色列与叙利亚保持强大而真诚的对话非常重要。",
@@ -348,17 +361,6 @@
           "time_info": "00时21分"
         },
         {
-          "title": "特朗普面临支持率“大麻烦”",
-          "url": "https://www.toutiao.com/trending/7578565783584784438/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时15分"
-        },
-        {
           "title": "美媒：民调显示特朗普正面临麻烦",
           "url": "https://www.toutiao.com/trending/7577944008061108270/",
           "source": "今日头条",
@@ -405,11 +407,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时14分 ~ 13时15分]"
+          "appearance_count": 7,
+          "time_info": "[07时14分 ~ 14时24分]"
         },
         {
           "title": "金十图示：2025年12月01日（周一）热门中概股行情一览（美股收盘）",
@@ -555,8 +558,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时20分 ~ 13时15分]"
+          "appearance_count": 17,
+          "time_info": "[00时20分 ~ 14时24分]"
         },
         {
           "title": "剑指AI芯片市场！大摩上调谷歌TPU产量预期：2027年或达500万块",
@@ -567,8 +570,20 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时14分 ~ 14时24分]"
+        },
+        {
+          "title": "谷歌揭秘了AI竞赛的底牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时14分 ~ 13时15分]"
+          "time_info": "[13时15分 ~ 14时24分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A、Meta、微软至多收跌超1.6%",
@@ -628,17 +643,6 @@
           "time_info": "05时13分"
         },
         {
-          "title": "谷歌揭秘了AI竞赛的底牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时15分"
-        },
-        {
           "title": "澳大利亚竞争与消费者委员会：谷歌被责令支付5500万澳元罚款。",
           "url": "https://wallstreetcn.com/livenews/3013379",
           "source": "华尔街见闻-快讯",
@@ -668,8 +672,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时20分 ~ 13时15分]"
+          "appearance_count": 17,
+          "time_info": "[00时20分 ~ 14时24分]"
         },
         {
           "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
@@ -678,11 +682,12 @@
           "ranks": [
             7,
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时20分 ~ 13时15分]"
+          "appearance_count": 17,
+          "time_info": "[00时20分 ~ 14时24分]"
         },
         {
           "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
@@ -699,6 +704,17 @@
           "time_info": "[00时20分 ~ 06时13分]"
         },
         {
+          "title": "【早报】热门中概股逆势飘红，银价续创历史新高；DeepSeek发布两款新模型",
+          "url": "https://www.cls.cn/detail/2216499",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时06分 ~ 14时24分]"
+        },
+        {
           "title": "DeepSeek同时发布两个正式版模型",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E5%90%8C%E6%97%B6%E5%8F%91%E5%B8%83%E4%B8%A4%E4%B8%AA%E6%AD%A3%E5%BC%8F%E7%89%88%E6%A8%A1%E5%9E%8B",
           "source": "百度热搜",
@@ -712,17 +728,6 @@
           "time_info": "[00时20分 ~ 07时14分]"
         },
         {
-          "title": "【早报】热门中概股逆势飘红，银价续创历史新高；DeepSeek发布两款新模型",
-          "url": "https://www.cls.cn/detail/2216499",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时06分 ~ 13时15分]"
-        },
-        {
           "title": "实测DeepSeekV3.2正式版",
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeekV3.2%E6%AD%A3%E5%BC%8F%E7%89%88",
           "source": "bilibili 热搜",
@@ -733,8 +738,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时06分 ~ 13时15分]"
+          "appearance_count": 6,
+          "time_info": "[09时06分 ~ 14时24分]"
         },
         {
           "title": "DeepSeek新模型追平Gemini",
@@ -745,8 +750,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时06分 ~ 13时15分]"
+          "appearance_count": 6,
+          "time_info": "[09时06分 ~ 14时24分]"
         }
       ]
     },
@@ -761,9 +766,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
+        },
+        {
+          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
+          "url": "https://wallstreetcn.com/articles/3760479",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时14分 ~ 14时24分]"
         },
         {
           "title": "用户报告称，OpenAI出现诸多故障。（DownDetector）",
@@ -778,17 +794,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时17分 ~ 06时13分]"
-        },
-        {
-          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
-          "url": "https://wallstreetcn.com/articles/3760479",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时14分 ~ 13时15分]"
         },
         {
           "title": "OpenAI持股Thrive Holdings，后者是由Thrive Capital在2025年稍早成立的投资工具。",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T20:31:18.006129+08:00",
-  "total_titles_processed": 1917,
+  "generated_at": "2025-12-12T21:31:40.899787+08:00",
+  "total_titles_processed": 2022,
   "failed_sources": [],
   "trends": [
     {
@@ -34,8 +34,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时16分 ~ 20时31分]"
+          "appearance_count": 12,
+          "time_info": "[13时16分 ~ 21时31分]"
         },
         {
           "title": "白宫：特朗普对俄乌都很失望",
@@ -72,8 +72,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时21分 ~ 20时31分]"
+          "appearance_count": 9,
+          "time_info": "[16时21分 ~ 21时31分]"
         },
         {
           "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
@@ -84,8 +84,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时21分 ~ 20时31分]"
+          "appearance_count": 9,
+          "time_info": "[16时21分 ~ 21时31分]"
         },
         {
           "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
@@ -798,8 +798,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时29分 ~ 20时31分]"
+          "appearance_count": 14,
+          "time_info": "[12时29分 ~ 21时31分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -1214,7 +1214,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         },
@@ -1290,8 +1290,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时19分 ~ 20时31分]"
+          "appearance_count": 15,
+          "time_info": "[11时19分 ~ 21时31分]"
         },
         {
           "title": "TD Cowen：将谷歌母公司Alphabet目标股价从335美元上调至350美元。",
@@ -1349,8 +1349,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时15分 ~ 20时31分]"
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 21时31分]"
         },
         {
           "title": "谷歌母公司Alphabet跌幅扩大至3.5%。 微软涨1.2%，刷新日高。",

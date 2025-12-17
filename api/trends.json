@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T22:17:05.586811+08:00",
-  "total_titles_processed": 2067,
+  "generated_at": "2025-12-17T23:17:47.497831+08:00",
+  "total_titles_processed": 2149,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 73,
       "titles": [
         {
           "title": "特朗普：认定委内瑞拉现政府是“外国恐怖组织”",
@@ -99,8 +99,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时18分 ~ 22时17分]"
+          "appearance_count": 14,
+          "time_info": "[13时18分 ~ 23时17分]"
         },
         {
           "title": "“爱泼斯坦案”背后的正义、叙述与情绪：特朗普和美国政治的梦魇",
@@ -295,6 +295,18 @@
           "time_info": "[14时23分 ~ 17时22分]"
         },
         {
+          "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32196119",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时16分 ~ 23时17分]"
+        },
+        {
           "title": "评论员：特朗普越来越像拜登",
           "url": "https://www.toutiao.com/trending/7584323902441000490/",
           "source": "今日头条",
@@ -426,17 +438,6 @@
           "time_info": "[00时20分 ~ 01时19分]"
         },
         {
-          "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32196119",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时16分 ~ 22时17分]"
-        },
-        {
           "title": "白宫幕僚长称特朗普有“酒鬼性格”",
           "url": "https://www.toutiao.com/trending/7584628769915162158/",
           "source": "今日头条",
@@ -525,6 +526,17 @@
           "time_info": "06时15分"
         },
         {
+          "title": "打破沉默，冯德莱恩回应特朗普：不能让他人的世界观定义欧洲",
+          "url": "https://news.ifeng.com/c/8pAOQZMvAiO",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "据华盛顿邮报：特朗普提名Joshua M. Rudd为国家安全局局长。",
           "url": "https://flash.jin10.com/detail/20251217080919926800",
           "source": "金十数据",
@@ -534,6 +546,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "墨西哥总统辛鲍姆：让我们希望，美国不会（军事）“介入”委内瑞拉。 （特朗普政府奉行的军事）封锁伤害（委内瑞拉）人民。",
+          "url": "https://wallstreetcn.com/livenews/3022484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "据英国金融时报：特朗普政府在关键会议前抨击世贸组织。",
@@ -564,7 +587,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -668,6 +691,17 @@
           "time_info": "17时22分"
         },
         {
+          "title": "委内瑞拉石油公司PDVSA Oil Company声明：虽然面临（特朗普政府的军事）封锁，但仍然在出口石油。 与公司相关的多艘油轮仍然在航行。",
+          "url": "https://wallstreetcn.com/livenews/3022470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "美国总统特朗普：将于明晚9点（北京时间次日上午10:00）在白宫向全国发表讲话。",
           "url": "https://flash.jin10.com/detail/20251217022634818800",
           "source": "金十数据",
@@ -718,7 +752,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -825,7 +859,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股收盘：三大指数涨跌不一 特斯拉创历史新高",
@@ -912,13 +946,24 @@
           "time_info": "[05时16分 ~ 06时15分]"
         },
         {
+          "title": "金十图示：2025年12月17日（周三）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251217223652356800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "周三美股盘前你需要了解的全球要闻",
           "url": "https://wallstreetcn.com/livenews/3022461",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -932,6 +977,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "英伟达美股盘初下跌1.58%。 甲骨文下跌3.1%。",
+          "url": "https://wallstreetcn.com/livenews/3022478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "美股开盘，道指开涨0.12%，标普500指数涨0.03%，纳指涨0.07%。奈飞(NFLX.O)开涨1.66%，此前华纳兄弟探索公司(WBD.O)董事会拒绝了派拉蒙影业的敌意收购要约，并继续推荐与奈飞进行交易；甲骨文(ORCL.N)开跌3.02%，有报道称，其100亿美元密歇根数据中心项目陷入僵局，但公司随后回应相关股权交易仍按计划推进。",
+          "url": "https://flash.jin10.com/detail/20251217223042134800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "英伟达美股盘前跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3022475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "金十图示：2025年12月16日（周二）美股热门股票行情一览（美股盘中）",
@@ -951,7 +1029,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -1014,7 +1092,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "OpenAI：全新图像模型和功能今日已在ChatGPT中面向所有用户推出，并作为GPT Image 1.5在API中上线。",
@@ -1064,6 +1142,18 @@
           "time_info": "[17时22分 ~ 18时18分]"
         },
         {
+          "title": "如何评价 OpenAI 刚推出的 GPT Image 1.5，有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1984534689147531765",
+          "source": "知乎",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时16分 ~ 23时17分]"
+        },
+        {
           "title": "OpenAI发布GPT Image1.5",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT%20Image1.5",
           "source": "bilibili 热搜",
@@ -1075,17 +1165,6 @@
           "time_info": "[11时15分 ~ 11时16分]"
         },
         {
-          "title": "如何评价 OpenAI 刚推出的 GPT Image 1.5，有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1984534689147531765",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时16分 ~ 22时17分]"
-        },
-        {
           "title": "OpenAI聘请前英国财相领导“星际之门”全球扩张计划",
           "url": "https://flash.jin10.com/detail/20251217015359218800",
           "source": "金十数据",
@@ -1095,6 +1174,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "外媒：OpenAI、Anthropic讨论与生物技术及其他公司的数据交易",
+          "url": "https://flash.jin10.com/detail/20251217223645174800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "OpenAI应用负责人：包括Adobe、Airtable、AppleMusic、Clay、Lovable、Salesforce在内的更多应用程序，将在ChatGPT的新目录中上线。",
@@ -1139,12 +1229,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "ChatGPT找不出美国应对彩虹-7的方法",
+          "url": "https://www.toutiao.com/trending/7584059510923739178/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美国贸易代表：迄今为止享有市场准入的一些最大欧盟服务提供商包括埃森哲、阿马迪斯（Amadeus）、凯捷（Capgemini）、敦豪（DHL）、Mistral、阳狮集团（Publicis）、SAP、西门子和Spotify。",
@@ -1170,6 +1271,17 @@
           "time_info": "[20时31分 ~ 21时31分]"
         },
         {
+          "title": "OpenAI、Anthropic、谷歌公司与其他公司（含生物科技公司）讨论数据交易。 这三家公司一直在寻找专门的数据来训练他们的AI模型，并讨论与初创企业和上市公司合作，授权基因组学等主题的数据集。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3022492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "OpenAI和谷歌通过免费赠品争夺印度用户和训练数据",
           "url": "https://wallstreetcn.com/livenews/3022400",
           "source": "华尔街见闻-快讯",
@@ -1184,7 +1296,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美国财政部：宣布与Exodus Movement就涉嫌违反伊朗制裁达成和解。",
@@ -1218,6 +1330,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "伊朗海滩暴雨后变血红色",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%B5%B7%E6%BB%A9%E6%9A%B4%E9%9B%A8%E5%90%8E%E5%8F%98%E8%A1%80%E7%BA%A2%E8%89%B2",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         }
       ]
     },

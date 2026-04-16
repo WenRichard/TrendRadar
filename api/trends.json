@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T21:37:30.925391+08:00",
-  "total_titles_processed": 1683,
+  "generated_at": "2026-04-16T23:30:47.172633+08:00",
+  "total_titles_processed": 1812,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 146,
+      "match_count": 156,
       "titles": [
         {
           "title": "王毅同伊朗外长通电话",
@@ -121,6 +121,28 @@
           "time_info": "[00时55分 ~ 07时37分]"
         },
         {
+          "title": "伊朗：将就官员被暗杀追究美以责任",
+          "url": "https://news.ifeng.com/c/8sNEWX5GhXC",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时11分 ~ 23时30分]"
+        },
+        {
+          "title": "美军喊话 ：要去伊朗的船立即掉头，否则我们就动武",
+          "url": "https://v.ifeng.com/c/8sN5mIzhL68",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时11分 ~ 23时30分]"
+        },
+        {
           "title": "伊朗美制通信设备遇袭时集体失灵",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%BE%8E%E5%88%B6%E9%80%9A%E4%BF%A1%E8%AE%BE%E5%A4%87%E9%81%87%E8%A2%AD%E6%97%B6%E9%9B%86%E4%BD%93%E5%A4%B1%E7%81%B5%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -183,17 +205,6 @@
           "time_info": "[00时55分 ~ 02时13分]"
         },
         {
-          "title": "伊朗：将就官员被暗杀追究美以责任",
-          "url": "https://news.ifeng.com/c/8sNEWX5GhXC",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时11分 ~ 21时37分]"
-        },
-        {
           "title": "伊朗军方回应美海上封锁",
           "url": "https://news.ifeng.com/c/8sLez9SCcb1",
           "source": "凤凰网",
@@ -205,17 +216,6 @@
           "time_info": "[00时55分 ~ 02时13分]"
         },
         {
-          "title": "美军喊话 ：要去伊朗的船立即掉头，否则我们就动武",
-          "url": "https://v.ifeng.com/c/8sN5mIzhL68",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时11分 ~ 21时37分]"
-        },
-        {
           "title": "伊朗战争丨王毅同伊朗外长通电话",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -225,6 +225,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时55分 ~ 00时56分]"
+        },
+        {
+          "title": "伊朗战争丨美参联会主席：将全球追击挂伊朗国旗船只",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时29分 ~ 23时30分]"
         },
         {
           "title": "美国和伊朗打了一个多月，一共烧了多少钱？",
@@ -252,6 +263,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时01分 ~ 20时12分]"
+        },
+        {
+          "title": "美对伊启动代号为“经济狂怒”的行动，美防长：如伊朗拒绝协议，随时重启作战",
+          "url": "https://wallstreetcn.com/articles/3770156",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时29分 ~ 23时30分]"
         },
         {
           "title": "报道：伊朗提议允许船只从阿曼一侧安全驶离霍尔木兹海峡，免遭攻击",
@@ -282,7 +304,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -370,7 +392,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -436,7 +458,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -485,6 +507,17 @@
           "time_info": "20时12分"
         },
         {
+          "title": "以色列国防部长：伊朗正处于十字路口，要么放弃恐怖主义和核计划，要么走向深渊。",
+          "url": "https://flash.jin10.com/detail/20260416230215110800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
+        },
+        {
           "title": "俄外长：霍尔木兹海峡危机的起因是“美以无端侵略伊朗”",
           "url": "https://wallstreetcn.com/livenews/3088673",
           "source": "华尔街见闻-快讯",
@@ -505,6 +538,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
+        },
+        {
+          "title": "伊朗总统感谢中国",
+          "url": "https://www.toutiao.com/trending/7628829127155826738/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时25分 ~ 23时30分]"
         },
         {
           "title": "美伊“海上封锁战”白热化：伊朗威胁若美封锁持续将切断红海航道",
@@ -532,6 +578,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时55分 ~ 04时12分]"
+        },
+        {
+          "title": "伊朗：美国成以色列“第七个行政区”",
+          "url": "https://www.toutiao.com/trending/7628284506704805939/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时11分 ~ 23时30分]"
         },
         {
           "title": "伊朗总统突然现身中方活动：中国站出来反对压迫和不公，感谢！",
@@ -607,6 +666,19 @@
           "time_info": "[10时01分 ~ 12时54分]"
         },
         {
+          "title": "伊朗称将就官员被暗杀追究美以责任",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%B0%86%E5%B0%B1%E5%AE%98%E5%91%98%E8%A2%AB%E6%9A%97%E6%9D%80%E8%BF%BD%E7%A9%B6%E7%BE%8E%E4%BB%A5%E8%B4%A3%E4%BB%BB",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时12分 ~ 23时30分]"
+        },
+        {
           "title": "伊朗或考虑允许船只通航霍尔木兹海峡阿曼一侧",
           "url": "https://news.ifeng.com/c/8sMc21c8jgR",
           "source": "凤凰网",
@@ -616,18 +688,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时01分 ~ 14时55分]"
-        },
-        {
-          "title": "伊朗总统感谢中国",
-          "url": "https://www.toutiao.com/trending/7628829127155826738/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时25分 ~ 20时12分]"
         },
         {
           "title": "伊朗：已做好打持久战准备",
@@ -678,16 +738,16 @@
           "time_info": "[10时01分 ~ 14时55分]"
         },
         {
-          "title": "伊朗：美国成以色列“第七个行政区”",
-          "url": "https://www.toutiao.com/trending/7628284506704805939/",
-          "source": "今日头条",
+          "title": "美对伊朗启动经济狂怒行动",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%90%AF%E5%8A%A8%E7%BB%8F%E6%B5%8E%E7%8B%82%E6%80%92%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
-            12,
-            24
+            10,
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时11分 ~ 21时37分]"
+          "time_info": "[21时37分 ~ 23时30分]"
         },
         {
           "title": "伊朗要求五个地区国赔偿战争损失",
@@ -833,16 +893,26 @@
           "time_info": "[07时03分 ~ 07时37分]"
         },
         {
-          "title": "伊朗称将就官员被暗杀追究美以责任",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%B0%86%E5%B0%B1%E5%AE%98%E5%91%98%E8%A2%AB%E6%9A%97%E6%9D%80%E8%BF%BD%E7%A9%B6%E7%BE%8E%E4%BB%A5%E8%B4%A3%E4%BB%BB",
-          "source": "百度热搜",
+          "title": "美称伊朗最高领袖已受伤但仍活着",
+          "url": "https://www.toutiao.com/trending/7628521830282592297/",
+          "source": "今日头条",
           "ranks": [
-            14,
-            22
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时12分 ~ 21时37分]"
+          "time_info": "[23时29分 ~ 23时30分]"
+        },
+        {
+          "title": "美方对伊朗启动代号为「经济狂怒」的行动，其具体措施与以往制裁会有何差异？可能对双方谈判有怎样的影响？",
+          "url": "https://www.zhihu.com/question/2028214096009412938",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时29分 ~ 23时30分]"
         },
         {
           "title": "伊朗外交部发言人：伊核问题相关安排仍存在多种选项",
@@ -878,6 +948,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时36分 ~ 07时37分]"
+        },
+        {
+          "title": "巴基斯坦外交部称下一轮美伊会谈日期尚未确定，伊朗称伊斯兰堡是与美国进行谈判的唯一地点，为何是伊斯兰堡？",
+          "url": "https://www.zhihu.com/question/2028145295125430592",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时29分 ~ 23时30分]"
         },
         {
           "title": "据AXIOS网站：美国尚未正式要求以色列在黎巴嫩停火，这不在与伊朗的谈判中。",
@@ -927,6 +1008,17 @@
           "time_info": "[07时36分 ~ 07时37分]"
         },
         {
+          "title": "美方对伊朗启动代号为“经济狂怒”的行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32986818",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时29分 ~ 23时30分]"
+        },
+        {
           "title": "伊朗议长卡利巴夫：黎巴嫩全面停火是抵抗阵线斗争的成果",
           "url": "https://flash.jin10.com/detail/20260416052231796800",
           "source": "金十数据",
@@ -937,6 +1029,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时03分 ~ 07时37分]"
+        },
+        {
+          "title": "伊朗披露击落美C-130细节",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%8A%AB%E9%9C%B2%E5%87%BB%E8%90%BD%E7%BE%8EC-130%E7%BB%86%E8%8A%82",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时29分 ~ 23时30分]"
         },
         {
           "title": "伊朗军方回应美国海上封锁",
@@ -1132,18 +1235,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时37分"
-        },
-        {
-          "title": "美对伊朗启动经济狂怒行动",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%90%AF%E5%8A%A8%E7%BB%8F%E6%B5%8E%E7%8B%82%E6%80%92%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -1236,6 +1328,17 @@
           "time_info": "00时56分"
         },
         {
+          "title": "两艘与伊朗有关船只“迂回”通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3089446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
+        },
+        {
           "title": "伊朗总统感谢中国",
           "url": "https://www.cls.cn/detail/2345514",
           "source": "财联社热门",
@@ -1297,7 +1400,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -1390,6 +1493,17 @@
           "time_info": "02时13分"
         },
         {
+          "title": "伊朗武装部队：伊方军队已做好全面防御准备",
+          "url": "https://wallstreetcn.com/livenews/3089440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
+        },
+        {
           "title": "专家：美以战前对伊朗存在战略误判",
           "url": "https://www.toutiao.com/trending/7627861969550245894/",
           "source": "今日头条",
@@ -1418,7 +1532,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -1506,7 +1620,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -1679,7 +1793,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 43,
       "titles": [
         {
           "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
@@ -1832,6 +1946,19 @@
           "time_info": "[00时55分 ~ 07时03分]"
         },
         {
+          "title": "中东和平希望升温！特朗普：以黎领导人周四将进行34年来首次对话",
+          "url": "https://www.cls.cn/detail/2346178",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时11分 ~ 23时30分]"
+        },
+        {
           "title": "美伊很快达成协议？特朗普给出“时间表”：4月下旬！",
           "url": "https://www.cls.cn/detail/2345537",
           "source": "财联社热门",
@@ -1842,6 +1969,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时01分 ~ 14时55分]"
+        },
+        {
+          "title": "特朗普就访华明确表态，中方回应",
+          "url": "https://news.ifeng.com/c/8sN67BgzZcR",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时25分 ~ 23时30分]"
         },
         {
           "title": "乌克兰媒体：在最近的一次空袭中，俄罗斯无人机向乌克兰投放了“反特朗普宣传单”。",
@@ -1855,18 +1993,6 @@
           "time_info": "16时25分"
         },
         {
-          "title": "中东和平希望升温！特朗普：以黎领导人周四将进行34年来首次对话",
-          "url": "https://www.cls.cn/detail/2346178",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时11分 ~ 21时37分]"
-        },
-        {
           "title": "【白宫否认已请求延长美伊停火，强调巴基斯坦为唯一斡旋方】4月15日，美国白宫新闻秘书卡罗琳·莱维特表示，美国尚未正式请求延长与伊朗的停火协议，相关报道“不属实”，当前双方仍在持续接触并推进谈判。 莱维特称，美国总统特朗普政府认为谈判“具有建设性”，对达成协议前景持乐观态度，同时强调所有决定以白宫正式发布为准。 她还指出，巴基斯坦在本轮谈判中发挥了关键斡旋作用，并称其为当前“唯一的调解方”。尽管多国表达协助意愿，但美方希望通过巴基斯坦渠道持续推进沟通与谈判。（央视）",
           "url": "https://wallstreetcn.com/livenews/3088711",
           "source": "华尔街见闻-快讯",
@@ -1876,6 +2002,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
+        },
+        {
+          "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
+          "url": "https://wallstreetcn.com/articles/3770081",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时11分 ~ 23时30分]"
         },
         {
           "title": "中方回应特朗普称访华不受影响",
@@ -1902,30 +2041,6 @@
           "time_info": "[04时12分 ~ 04时53分]"
         },
         {
-          "title": "特朗普就访华明确表态，中方回应",
-          "url": "https://news.ifeng.com/c/8sN67BgzZcR",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时25分 ~ 21时37分]"
-        },
-        {
-          "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
-          "url": "https://wallstreetcn.com/articles/3770081",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时11分 ~ 21时37分]"
-        },
-        {
           "title": "内幕交易疑云笼罩！美CFTC出手：调查特朗普对伊政策转向前夕可疑原油押注",
           "url": "https://www.cls.cn/detail/2345555",
           "source": "财联社热门",
@@ -1937,6 +2052,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时54分 ~ 16时25分]"
+        },
+        {
+          "title": "美前官员：特朗普欲“谈合作”，但其团队对华立场更为强硬",
+          "url": "https://news.ifeng.com/c/8sNNVO5nsfP",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时37分 ~ 23时30分]"
+        },
+        {
+          "title": "特朗普急了！美伊4月BigDeal可以期待？市场紧盯这两天",
+          "url": "https://wallstreetcn.com/articles/3770137",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时29分 ~ 23时30分]"
         },
         {
           "title": "美国总统特朗普与卡塔尔埃米尔通电话，讨论缓和地区局势的问题、讨论稳定能源市场的问题。",
@@ -2009,15 +2146,26 @@
           "time_info": "20时12分"
         },
         {
-          "title": "美前官员：特朗普欲“谈合作”，但其团队对华立场更为强硬",
-          "url": "https://news.ifeng.com/c/8sNNVO5nsfP",
-          "source": "凤凰网",
+          "title": "黎巴嫩总统与特朗普通电话",
+          "url": "https://wallstreetcn.com/livenews/3089451",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时37分"
+          "time_info": "23时30分"
+        },
+        {
+          "title": "黎巴嫩总统与特朗普通电话",
+          "url": "https://flash.jin10.com/detail/20260416225859210800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
         },
         {
           "title": "美国白宫：特朗普已批准许可，授权巴肯管道公司在北达科他州伯克县边界建设并运营跨境管道。",
@@ -2040,6 +2188,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
+        },
+        {
+          "title": "黎巴嫩总统府：美国总统特朗普向黎巴嫩总统强调，他致力于满足黎巴嫩提出的停火请求。",
+          "url": "https://flash.jin10.com/detail/20260416225620285800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
         },
         {
           "title": "特朗普：美国“很有可能”在4月下旬英国国王查尔斯三世访美前与伊朗达成协议",
@@ -2075,6 +2234,28 @@
           "time_info": "04时12分"
         },
         {
+          "title": "黎巴嫩总统与美国总统特朗普在通话中讨论了停火的努力。",
+          "url": "https://flash.jin10.com/detail/20260416225249401800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
+        },
+        {
+          "title": "美国总统特朗普与黎巴嫩总统Aoun通话。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3089438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
+        },
+        {
           "title": "特朗普称以黎领导人将对话",
           "url": "https://wallstreetcn.com/livenews/3088982",
           "source": "华尔街见闻-快讯",
@@ -2097,6 +2278,17 @@
           "time_info": "00时56分"
         },
         {
+          "title": "两名黎巴嫩官员表示，黎巴嫩总统通过电话与美国总统特朗普进行了交谈。",
+          "url": "https://flash.jin10.com/detail/20260416224556019800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
+        },
+        {
           "title": "特朗普不满美英“特殊关系”，斯塔默说不会妥协",
           "url": "https://wallstreetcn.com/livenews/3088656",
           "source": "华尔街见闻-快讯",
@@ -2111,7 +2303,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
@@ -2162,6 +2354,17 @@
           "time_info": "[07时02分 ~ 10时01分]"
         },
         {
+          "title": "停火延长预期提振市场，美股高开，台积电跌超1%，布油涨2%",
+          "url": "https://wallstreetcn.com/articles/3770109",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时29分 ~ 23时30分]"
+        },
+        {
           "title": "野村警告：不要跟美股涨势作对！除非出现两大致命信号",
           "url": "https://flash.jin10.com/detail/20260416200955488800",
           "source": "金十数据",
@@ -2179,7 +2382,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -2220,6 +2423,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时53分 ~ 05时45分]"
+        },
+        {
+          "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
+          "url": "https://wallstreetcn.com/articles/3770123",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时37分 ~ 23时30分]"
         },
         {
           "title": "金十图示：2026年04月15日（周三）热门中概股行情一览（美股收盘）",
@@ -2270,24 +2485,24 @@
           "time_info": "[04时53分 ~ 05时45分]"
         },
         {
+          "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2346625",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时29分 ~ 23时30分]"
+        },
+        {
           "title": "美股开盘，道指涨0.16%，标普500指数涨0.2%，纳指涨0.17%。台积电(TSM.N)开跌1.82%，其第一季度利润大增58%，公司预计第二季度营收为390亿至402亿美元；甲骨文(ORCL.N)开涨3.35%，此前公司宣布与亚马逊云服务合作。",
           "url": "https://flash.jin10.com/detail/20260416213037420800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时37分"
-        },
-        {
-          "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
-          "url": "https://wallstreetcn.com/articles/3770123",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -2353,7 +2568,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         }
@@ -2405,7 +2620,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T10:12:44.676706+08:00",
-  "total_titles_processed": 735,
+  "generated_at": "2026-07-10T14:37:33.035698+08:00",
+  "total_titles_processed": 945,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时15分 ~ 05时16分]"
+        },
+        {
+          "title": "伊朗发生致命枪击事件，距哈梅内伊安葬地仅17公里",
+          "url": "https://news.ifeng.com/c/8udfBwd2vGP",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 14时37分]"
+        },
+        {
+          "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
+          "url": "https://wallstreetcn.com/articles/3776602",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 14时37分]"
         },
         {
           "title": "伊朗发射巡航导弹袭击美国舰艇",
@@ -50,29 +73,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
-          "url": "https://wallstreetcn.com/articles/3776602",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "伊朗发生致命枪击事件，距哈梅内伊安葬地仅17公里",
-          "url": "https://news.ifeng.com/c/8udfBwd2vGP",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -262,7 +263,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -347,7 +348,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
@@ -382,17 +383,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时15分 ~ 10时12分]"
-        },
-        {
-          "title": "特朗普称“日本导弹”打美国航母，白宫回应",
-          "url": "https://news.ifeng.com/c/8udg4food2U",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
         },
         {
           "title": "乌克兰总统泽连斯基：与美国总统特朗普详细讨论了爱国者导弹生产的许可证问题。",
@@ -439,15 +429,28 @@
           "time_info": "[01时15分 ~ 07时05分]"
         },
         {
+          "title": "特朗普称“日本导弹”打美国航母，白宫回应",
+          "url": "https://news.ifeng.com/c/8udg4food2U",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 14时37分]"
+        },
+        {
           "title": "特朗普搞中国那套，拿来对付西班牙？",
           "url": "https://news.ifeng.com/c/8udchHV60GP",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 14时37分]"
         },
         {
           "title": "以色列向美国递交新情报：伊朗再被曝策划刺杀特朗普",
@@ -467,7 +470,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -481,6 +484,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "特朗普“把自己困住了”，陷入两难",
+          "url": "https://news.ifeng.com/c/8uddEUs34xh",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "内塔尼亚胡与特朗普通话 商定保持两国政策协调",
@@ -522,7 +536,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -578,6 +592,28 @@
           "time_info": "[01时15分 ~ 07时05分]"
         },
         {
+          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 14时37分]"
+        },
+        {
+          "title": "【早报】美股贵金属、存储股集体爆发；油价下挫，黄金走强；兆易创新、工业富联等业绩预计倍增；法国成首支四强球队",
+          "url": "https://www.cls.cn/detail/2422278",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 14时37分]"
+        },
+        {
           "title": "海力士美股IPO点燃AI热情，美股高开，科技股反弹，康宁涨超8%，黄金涨超1%，原油回落",
           "url": "https://wallstreetcn.com/articles/3776523",
           "source": "华尔街见闻",
@@ -588,28 +624,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时15分 ~ 05时16分]"
-        },
-        {
-          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3776523",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "【早报】美股贵金属、存储股集体爆发；油价下挫，黄金走强；兆易创新、工业富联等业绩预计倍增；法国成首支四强球队",
-          "url": "https://www.cls.cn/detail/2422278",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
         },
         {
           "title": "美股期指上涨 纳指期货涨近1% 芯片股盘前集体走强 | 今夜看点",
@@ -655,8 +669,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时05分 ~ 10时12分]"
+          "appearance_count": 3,
+          "time_info": "[07时05分 ~ 14时37分]"
         },
         {
           "title": "美股大类资产类ETF多数收涨，纳指ETF涨超1.6%、与小盘股ETF、黄金ETF领跑",
@@ -781,9 +795,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
+          "url": "https://wallstreetcn.com/articles/3776605",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 14时37分]"
         },
         {
           "title": "OpenAI：Chatgpt Work将开始向网页版和移动端的Pro、Enterprise及Edu用户推出，Plus和Business用户将在未来几天陆续获得访问权限。",
@@ -795,17 +821,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
-        },
-        {
-          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
-          "url": "https://wallstreetcn.com/articles/3776605",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
         },
         {
           "title": "OpenAI：推出由GPT-5.6驱动的Chatgpt Work，这是我们最新的前沿模型系列。全新Chatgpt桌面应用将聊天、工作与Codex整合在一起。",

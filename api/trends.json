@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-10T18:18:17.816279+08:00",
-  "total_titles_processed": 1145,
+  "generated_at": "2026-07-10T21:07:04.355007+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 38,
       "titles": [
+        {
+          "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
+          "url": "https://wallstreetcn.com/articles/3776602",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时12分 ~ 21时07分]"
+        },
         {
           "title": "美军称再次对伊朗发起打击",
           "url": "https://m.thepaper.cn/newsDetail_forward_33546490",
@@ -31,15 +43,15 @@
           "time_info": "[10时12分 ~ 18时18分]"
         },
         {
-          "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
-          "url": "https://wallstreetcn.com/articles/3776602",
-          "source": "华尔街见闻",
+          "title": "内塔尼亚胡：过去一年，我们杀死了伊朗20名核专家",
+          "url": "https://news.ifeng.com/c/8ueCFBdRP1G",
+          "source": "凤凰网",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时12分 ~ 18时18分]"
+          "appearance_count": 2,
+          "time_info": "[21时06分 ~ 21时07分]"
         },
         {
           "title": "伊朗发射巡航导弹袭击美国舰艇",
@@ -131,7 +143,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -153,7 +165,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -246,6 +258,17 @@
           "time_info": "01时15分"
         },
         {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗追悼仪式将于今晚开始，持续三夜。",
+          "url": "https://flash.jin10.com/detail/20260710204645642800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
           "title": "伊朗谴责美军打击伊海事基础设施",
           "url": "https://wallstreetcn.com/livenews/3131463",
           "source": "华尔街见闻-快讯",
@@ -257,6 +280,17 @@
           "time_info": "01时15分"
         },
         {
+          "title": "知情人士：卡塔尔谈判代表已抵达伊朗 以缓和局势",
+          "url": "https://wallstreetcn.com/livenews/3132076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
           "title": "比利时首相：伊朗危机反复无常，战争拖延正在拖累全球经济。",
           "url": "https://flash.jin10.com/detail/20260710004151933800",
           "source": "金十数据",
@@ -266,6 +300,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "卡塔尔称伊朗与美国落实谅解备忘录很重要。（半岛电视台）",
+          "url": "https://wallstreetcn.com/livenews/3132073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         },
         {
           "title": "据伊朗迈赫尔通讯社报道，伊朗南部阿巴斯港当地时间9日晚传出数次爆炸声。（新华社）",
@@ -345,6 +390,17 @@
           "time_info": "01时15分"
         },
         {
+          "title": "伊朗已故最高领袖葬礼上出现神秘面孔 引发广泛猜测",
+          "url": "https://flash.jin10.com/detail/20260710203637888800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
           "title": "伊朗外长与巴基斯坦军方通话，谴责美方违反谅解备忘录",
           "url": "https://wallstreetcn.com/livenews/3131446",
           "source": "华尔街见闻-快讯",
@@ -365,12 +421,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
+        },
+        {
+          "title": "伊朗高级官员：敌方攻击伊基础设施必遭回击",
+          "url": "https://wallstreetcn.com/livenews/3132056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
@@ -393,8 +460,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时12分 ~ 18时18分]"
+          "appearance_count": 6,
+          "time_info": "[10时12分 ~ 21时07分]"
+        },
+        {
+          "title": "特朗普搞中国那套，拿来对付西班牙？",
+          "url": "https://news.ifeng.com/c/8udchHV60GP",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时12分 ~ 21时07分]"
         },
         {
           "title": "美国商务部长卢特尼克：总统特朗普知道油价会保持在低位。（福克斯商业新闻）",
@@ -430,6 +510,18 @@
           "time_info": "01时15分"
         },
         {
+          "title": "特朗普“把自己困住了”，陷入两难",
+          "url": "https://news.ifeng.com/c/8uddEUs34xh",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时37分 ~ 21时07分]"
+        },
+        {
           "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
           "url": "https://news.ifeng.com/c/8ubvs5fh8MS",
           "source": "凤凰网",
@@ -461,31 +553,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时15分 ~ 07时05分]"
-        },
-        {
-          "title": "特朗普搞中国那套，拿来对付西班牙？",
-          "url": "https://news.ifeng.com/c/8udchHV60GP",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时12分 ~ 18时18分]"
-        },
-        {
-          "title": "特朗普“把自己困住了”，陷入两难",
-          "url": "https://news.ifeng.com/c/8uddEUs34xh",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时37分 ~ 18时18分]"
         },
         {
           "title": "以色列向美国递交新情报：伊朗再被曝策划刺杀特朗普",
@@ -571,7 +638,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -598,6 +665,17 @@
           "time_info": "05时16分"
         },
         {
+          "title": "以色列消息人士：特朗普目前不想让以色列参战",
+          "url": "https://flash.jin10.com/detail/20260710203808619800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
           "title": "内塔尼亚胡与特朗普通话，商定保持两国政策协调",
           "url": "https://wallstreetcn.com/livenews/3131529",
           "source": "华尔街见闻-快讯",
@@ -607,13 +685,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "美国佛州棕榈滩机场正式以特朗普冠名",
+          "url": "https://wallstreetcn.com/livenews/3132058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时12分 ~ 21时07分]"
+        },
         {
           "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
           "url": "https://wallstreetcn.com/articles/3776425",
@@ -625,17 +726,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时15分 ~ 07时05分]"
-        },
-        {
-          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3776523",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时12分 ~ 18时18分]"
         },
         {
           "title": "【早报】美股贵金属、存储股集体爆发；油价下挫，黄金走强；兆易创新、工业富联等业绩预计倍增；法国成首支四强球队",
@@ -706,6 +796,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时05分 ~ 14时37分]"
+        },
+        {
+          "title": "静待SK海力士IPO，美股科技股盘前小幅下挫，日元走强，布油企稳，黄金承压",
+          "url": "https://wallstreetcn.com/articles/3776623",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时06分 ~ 21时07分]"
+        },
+        {
+          "title": "万众瞩目！SK海力士今晚美股首秀 首日表现牵动全球存储板块走向",
+          "url": "https://www.cls.cn/detail/2423160",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时06分 ~ 21时07分]"
         },
         {
           "title": "美股大类资产类ETF多数收涨，纳指ETF涨超1.6%、与小盘股ETF、黄金ETF领跑",
@@ -808,11 +920,12 @@
           "ranks": [
             9,
             7,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时12分 ~ 18时18分]"
+          "appearance_count": 6,
+          "time_info": "[10时12分 ~ 21时07分]"
         },
         {
           "title": "OpenAI：正式推出GPT-5.6系列模型，面向公众开放使用。",
@@ -905,6 +1018,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepTalk：法币实验走向不可避免的终点，金价会自己完成金本位回归",
+          "url": "https://flash.jin10.com/detail/20260710204856702800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
+          "title": "趁金价下跌 波兰央行年内累计购入82吨黄金",
+          "url": "https://flash.jin10.com/detail/20260710004838239800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -943,23 +1084,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "趁金价下跌 波兰央行年内累计购入82吨黄金",
-          "url": "https://flash.jin10.com/detail/20260710004838239800",
-          "source": "金十数据",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 1,

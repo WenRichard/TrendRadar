@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-17T10:26:48.054875+08:00",
-  "total_titles_processed": 570,
+  "generated_at": "2026-10-17T15:24:25.022561+08:00",
+  "total_titles_processed": 764,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "俄乌“能源停火”破裂，俄专家：特朗普调停能力减弱",
@@ -19,6 +19,17 @@
           "time_info": "[04时21分 ~ 10时26分]"
         },
         {
+          "title": "万斯表示曾与特朗普在对伊战争问题上存在分歧",
+          "url": "https://flash.jin10.com/detail/20261017144638687800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
           "title": "美国总统特朗普：拜登向乌克兰提供了价值3500亿美元的装备和现金。这不好，非常不好，实在太糟糕了。",
           "url": "https://flash.jin10.com/detail/20261017053548187800",
           "source": "金十数据",
@@ -30,6 +41,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "乌军使用星链遭限速，特朗普：不是我，也不是马斯克",
+          "url": "https://news.ifeng.com/c/8xIHdKH8nYi",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
           "title": "特朗普称可能打击伊朗镐山核设施",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%AF%E8%83%BD%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E9%95%90%E5%B1%B1%E6%A0%B8%E8%AE%BE%E6%96%BD",
           "source": "百度热搜",
@@ -39,6 +61,41 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时21分 ~ 07时12分]"
+        },
+        {
+          "title": "特朗普豁免《格雷厄姆法案》中多项对俄制裁、限制措施及关税",
+          "url": "https://wallstreetcn.com/livenews/3180516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 15时24分]"
+        },
+        {
+          "title": "特朗普：我化妆很淡，都是自己动手，因为不化妆看起来像个死人",
+          "url": "https://v.ifeng.com/c/8xI38csArPf",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 15时24分]"
+        },
+        {
+          "title": "上任仅5天 白宫新闻秘书遭特朗普“劝退”",
+          "url": "https://www.cls.cn/detail/2507355",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 15时24分]"
         },
         {
           "title": "美国总统特朗普： 在佐治亚州，优时比（UCB）将投资20亿美元，建设其在美国的首座制药工厂。 倍耐力（Pirelli）刚刚宣布，将投资12亿美元扩建罗马市工厂，新增1000个就业岗位。 现代汽车（Hyundai）宣布，将投资5.6亿美元扩建西点市的工厂。",
@@ -92,18 +149,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "特朗普豁免《格雷厄姆法案》中多项对俄制裁、限制措施及关税",
-          "url": "https://wallstreetcn.com/livenews/3180516",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -119,15 +165,15 @@
           "time_info": "07时12分"
         },
         {
-          "title": "特朗普：我化妆很淡，都是自己动手，因为不化妆看起来像个死人",
-          "url": "https://v.ifeng.com/c/8xI38csArPf",
-          "source": "凤凰网",
+          "title": "特朗普称乌军“星盾”故障与美国无关",
+          "url": "https://wallstreetcn.com/livenews/3180539",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "15时24分"
         },
         {
           "title": "美国总统特朗普：欧洲人想得到格陵兰岛。他们当时就知道我是对的。",
@@ -139,17 +185,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
-        },
-        {
-          "title": "上任仅5天 白宫新闻秘书遭特朗普“劝退”",
-          "url": "https://www.cls.cn/detail/2507355",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗战事）这只是一次军事演习而已，明白吗？",
@@ -169,7 +204,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -207,13 +242,24 @@
           "time_info": "07时12分"
         },
         {
+          "title": "特朗普宣布暂缓实施新一轮对俄制裁",
+          "url": "https://www.toutiao.com/trending/7697430509244416054/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
           "title": "特朗普豁免《格雷厄姆法案》中多项对俄制裁、限制措施及关税",
           "url": "https://flash.jin10.com/detail/20261017084801915800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -224,7 +270,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -235,7 +281,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -273,11 +319,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时11分 ~ 10时26分]"
+          "appearance_count": 4,
+          "time_info": "[07时11分 ~ 15时24分]"
         },
         {
           "title": "沃什IMF年会上未释放加息信号 美股三大期指窄幅震荡 | 今夜看点",
@@ -286,11 +333,34 @@
           "ranks": [
             5,
             7,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时21分 ~ 10时26分]"
+          "appearance_count": 6,
+          "time_info": "[04时21分 ~ 15时24分]"
+        },
+        {
+          "title": "AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，VIX一度升破22，布油涨破110",
+          "url": "https://wallstreetcn.com/articles/3783778",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 15时24分]"
+        },
+        {
+          "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
+          "url": "https://www.cls.cn/detail/2507382",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 15时24分]"
         },
         {
           "title": "AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，芯片指数八连跌，布油涨破110",
@@ -302,28 +372,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时11分 ~ 07时12分]"
-        },
-        {
-          "title": "AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，VIX一度升破22，布油涨破110",
-          "url": "https://wallstreetcn.com/articles/3783778",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
-          "url": "https://www.cls.cn/detail/2507382",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
         },
         {
           "title": "周五（10月16日），美股行业ETF多数收跌，网络股指数ETF跌3.43%，半导体ETF跌3.41%，科技行业ETF跌3.02%，全球科技股指数ETF跌2.88%，能源业ETF涨2.52%。",
@@ -417,7 +465,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "伊朗称新型武器装备投入使用",
@@ -427,8 +475,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时21分 ~ 10时26分]"
+          "appearance_count": 6,
+          "time_info": "[04时21分 ~ 15时24分]"
         },
         {
           "title": "报道：美伊停战提议仍待回应，亲伊朗武装被指向革命卫队回输资金",
@@ -449,9 +497,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
+        },
+        {
+          "title": "伊朗官员：决定局势的是伊朗导弹，而非美国炸弹",
+          "url": "https://flash.jin10.com/detail/20261017141834541800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "报道：美伊停战提议仍待回应 亲伊朗武装被指向革命卫队回输资金",
@@ -476,6 +535,17 @@
           "time_info": "04时22分"
         },
         {
+          "title": "伊朗革命卫队：一艘油轮在霍尔木兹海峡触雷爆炸",
+          "url": "https://wallstreetcn.com/livenews/3180528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
           "title": "据Axios：美国中央司令部司令布拉德·库珀海军上将周五表示，伊朗支持的地区武装组织一直在向伊朗革命卫队输送资金，以缓解持续九个月的战争给其带来的经济压力。",
           "url": "https://flash.jin10.com/detail/20261017043200446800",
           "source": "金十数据",
@@ -490,8 +560,21 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "已恢复!DeepSeek发故障补偿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367231&amp;topic_name=%E5%B7%B2%E6%81%A2%E5%A4%8D%21DeepSeek%E5%8F%91%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时21分 ~ 15时24分]"
+        },
         {
           "title": "DeepSeek 将整合多团队成立产品部，崔添翼任负责人，怎样看待这一调整？会带来哪些影响？",
           "url": "https://www.zhihu.com/question/2094475735796643677",
@@ -505,18 +588,6 @@
           "time_info": "[07时11分 ~ 10时26分]"
         },
         {
-          "title": "已恢复!DeepSeek发故障补偿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367231&amp;topic_name=%E5%B7%B2%E6%81%A2%E5%A4%8D%21DeepSeek%E5%8F%91%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时21分 ~ 10时26分]"
-        },
-        {
           "title": "如何看待网友说 DeepSeek 在爱里长大？",
           "url": "https://www.zhihu.com/question/2093751116613866755",
           "source": "知乎",
@@ -526,6 +597,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时21分 ~ 07时12分]"
+        },
+        {
+          "title": "当DeepSeek修复之后belike",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93DeepSeek%E4%BF%AE%E5%A4%8D%E4%B9%8B%E5%90%8Ebelike",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "用DeepSeek翻唱人是猫",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8DeepSeek%E7%BF%BB%E5%94%B1%E4%BA%BA%E6%98%AF%E7%8C%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         }
       ]
     },
@@ -652,6 +745,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金暴跌27%，白银价格腰斩！一场更大的贵金属危机正在酝酿？",
+          "url": "https://wallstreetcn.com/articles/3783830",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         }
       ]
     },

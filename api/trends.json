@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-17T15:24:25.022561+08:00",
-  "total_titles_processed": 764,
+  "generated_at": "2026-10-17T19:55:42.040900+08:00",
+  "total_titles_processed": 941,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "俄乌“能源停火”破裂，俄专家：特朗普调停能力减弱",
@@ -25,9 +25,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
+        },
+        {
+          "title": "特朗普：我不知道普京是否会来参加G20峰会，但我希望能见到他",
+          "url": "https://news.ifeng.com/c/8xIg9fCOn9f",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         },
         {
           "title": "美国总统特朗普：拜登向乌克兰提供了价值3500亿美元的装备和现金。这不好，非常不好，实在太糟糕了。",
@@ -47,7 +58,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -61,6 +72,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时21分 ~ 07时12分]"
+        },
+        {
+          "title": "上任仅5天 白宫新闻秘书遭特朗普“劝退”",
+          "url": "https://www.cls.cn/detail/2507355",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时26分 ~ 19时55分]"
         },
         {
           "title": "特朗普豁免《格雷厄姆法案》中多项对俄制裁、限制措施及关税",
@@ -86,18 +109,6 @@
           "time_info": "[10时26分 ~ 15时24分]"
         },
         {
-          "title": "上任仅5天 白宫新闻秘书遭特朗普“劝退”",
-          "url": "https://www.cls.cn/detail/2507355",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时26分 ~ 15时24分]"
-        },
-        {
           "title": "美国总统特朗普： 在佐治亚州，优时比（UCB）将投资20亿美元，建设其在美国的首座制药工厂。 倍耐力（Pirelli）刚刚宣布，将投资12亿美元扩建罗马市工厂，新增1000个就业岗位。 现代汽车（Hyundai）宣布，将投资5.6亿美元扩建西点市的工厂。",
           "url": "https://wallstreetcn.com/livenews/3180498",
           "source": "华尔街见闻-快讯",
@@ -108,6 +119,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时12分 ~ 10时26分]"
+        },
+        {
+          "title": "特朗普称乌军“星盾”故障与美国无关",
+          "url": "https://wallstreetcn.com/livenews/3180539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 19时55分]"
         },
         {
           "title": "特朗普：为确保伊朗无法获得核武器 可能会对镐山核设施发动打击",
@@ -143,6 +166,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "意大利防长：特朗普在援乌问题上“完全错误”",
+          "url": "https://news.ifeng.com/c/8xIbqb7Qg1x",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
           "title": "美国总统特朗普周六日程一览",
           "url": "https://flash.jin10.com/detail/20261017093800660800",
           "source": "金十数据",
@@ -163,17 +197,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
-        },
-        {
-          "title": "特朗普称乌军“星盾”故障与美国无关",
-          "url": "https://wallstreetcn.com/livenews/3180539",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时24分"
         },
         {
           "title": "美国总统特朗普：欧洲人想得到格陵兰岛。他们当时就知道我是对的。",
@@ -220,6 +243,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "特朗普签署行政令豁免对俄多项制裁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34269052",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
           "title": "美国总统特朗普：我当然希望普京出席G20峰会，但我不知道他是否会来。",
           "url": "https://flash.jin10.com/detail/20261017035741291800",
           "source": "金十数据",
@@ -248,7 +282,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -311,7 +345,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股收盘：科技重挫纳指跌超2% 红利、能源巨头再创新高",
@@ -323,22 +357,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时11分 ~ 15时24分]"
-        },
-        {
-          "title": "沃什IMF年会上未释放加息信号 美股三大期指窄幅震荡 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2507212",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            7,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时21分 ~ 15时24分]"
+          "appearance_count": 5,
+          "time_info": "[07时11分 ~ 19时55分]"
         },
         {
           "title": "AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，VIX一度升破22，布油涨破110",
@@ -348,8 +368,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时26分 ~ 15时24分]"
+          "appearance_count": 3,
+          "time_info": "[10时26分 ~ 19时55分]"
         },
         {
           "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
@@ -359,8 +379,23 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时26分 ~ 15时24分]"
+          "appearance_count": 3,
+          "time_info": "[10时26分 ~ 19时55分]"
+        },
+        {
+          "title": "沃什IMF年会上未释放加息信号 美股三大期指窄幅震荡 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2507212",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            7,
+            10,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时21分 ~ 19时55分]"
         },
         {
           "title": "AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，芯片指数八连跌，布油涨破110",
@@ -418,6 +453,17 @@
           "time_info": "04时22分"
         },
         {
+          "title": "美股最危险的分化：普通股票已经跌惨，AI巨头还能撑多久？",
+          "url": "https://wallstreetcn.com/articles/3783832",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
           "title": "AI交易忧虑压垮美股，盘中纳指跌超2%、CoreWeave跌超10%，芯片指数八连跌",
           "url": "https://wallstreetcn.com/articles/3783778",
           "source": "华尔街见闻",
@@ -464,8 +510,118 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "已恢复!DeepSeek发故障补偿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367231&amp;topic_name=%E5%B7%B2%E6%81%A2%E5%A4%8D%21DeepSeek%E5%8F%91%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            11,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时21分 ~ 19时55分]"
+        },
+        {
+          "title": "如何评价 DeepSeek V4.1 Flash 1017?",
+          "url": "https://www.zhihu.com/question/2094773240036061683",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
+          "title": "Deepseek V4.1 Flash新版本发布",
+          "url": "https://search.bilibili.com/all?keyword=Deepseek%20V4.1%20Flash",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
+          "title": "DeepSeek V4.1 Flash发布新版本",
+          "url": "https://wallstreetcn.com/livenews/3180557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
+          "title": "DeepSeek 将整合多团队成立产品部，崔添翼任负责人，怎样看待这一调整？会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2094475735796643677",
+          "source": "知乎",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时11分 ~ 10时26分]"
+        },
+        {
+          "title": "如何看待网友说 DeepSeek 在爱里长大？",
+          "url": "https://www.zhihu.com/question/2093751116613866755",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时21分 ~ 07时12分]"
+        },
+        {
+          "title": "用DeepSeek翻唱人是猫",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8DeepSeek%E7%BF%BB%E5%94%B1%E4%BA%BA%E6%98%AF%E7%8C%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 19时55分]"
+        },
+        {
+          "title": "当DeepSeek修复之后belike",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93DeepSeek%E4%BF%AE%E5%A4%8D%E4%B9%8B%E5%90%8Ebelike",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "DeepSeek新版本 许愿式编程一键成真",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%B0%E7%89%88%E6%9C%AC+%E8%AE%B8%E6%84%BF%E5%BC%8F%E7%BC%96%E7%A8%8B%E4%B8%80%E9%94%AE%E6%88%90%E7%9C%9F",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "伊朗称新型武器装备投入使用",
@@ -477,6 +633,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时21分 ~ 15时24分]"
+        },
+        {
+          "title": "凤凰记者：伊朗强硬表态，意在迫使美方放弃动武念头",
+          "url": "https://original.ifeng.com/c/8xIaMUyrmpk",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         },
         {
           "title": "报道：美伊停战提议仍待回应，亲伊朗武装被指向革命卫队回输资金",
@@ -508,7 +675,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -541,7 +708,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -555,70 +722,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "已恢复!DeepSeek发故障补偿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367231&amp;topic_name=%E5%B7%B2%E6%81%A2%E5%A4%8D%21DeepSeek%E5%8F%91%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时21分 ~ 15时24分]"
-        },
-        {
-          "title": "DeepSeek 将整合多团队成立产品部，崔添翼任负责人，怎样看待这一调整？会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2094475735796643677",
-          "source": "知乎",
-          "ranks": [
-            3,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时11分 ~ 10时26分]"
-        },
-        {
-          "title": "如何看待网友说 DeepSeek 在爱里长大？",
-          "url": "https://www.zhihu.com/question/2093751116613866755",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时21分 ~ 07时12分]"
-        },
-        {
-          "title": "当DeepSeek修复之后belike",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93DeepSeek%E4%BF%AE%E5%A4%8D%E4%B9%8B%E5%90%8Ebelike",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
-          "title": "用DeepSeek翻唱人是猫",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8DeepSeek%E7%BF%BB%E5%94%B1%E4%BA%BA%E6%98%AF%E7%8C%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时24分"
         }
       ]
     },
@@ -757,11 +860,12 @@
           "url": "https://wallstreetcn.com/articles/3783830",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 19时55分]"
         }
       ]
     },

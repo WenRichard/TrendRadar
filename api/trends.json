@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-23T13:38:36.639208+08:00",
-  "total_titles_processed": 777,
+  "generated_at": "2026-10-23T18:49:17.835143+08:00",
+  "total_titles_processed": 983,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "泽连斯基：我跟特朗普没有私人恩怨",
@@ -14,9 +14,43 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时38分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时38分 ~ 18时49分]"
+        },
+        {
+          "title": "特朗普怒骂NBA球星詹姆斯：我早就说过他不行，简直是个耻辱",
+          "url": "https://news.ifeng.com/c/8xS2bhN07ef",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时38分 ~ 18时49分]"
+        },
+        {
+          "title": "如何评价特朗普发文痛批詹姆斯在奏国歌时做「高尔夫挥杆动作」，并要求其道歉？",
+          "url": "https://www.zhihu.com/question/2096894678494884280",
+          "source": "知乎",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时38分 ~ 18时49分]"
+        },
+        {
+          "title": "特朗普怒喷詹姆斯不尊重美国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367970&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E5%96%B7%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%8D%E5%B0%8A%E9%87%8D%E7%BE%8E%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 18时49分]"
         },
         {
           "title": "特朗普援引《国防生产法》支持美国石油产业扩能",
@@ -63,17 +97,6 @@
           "time_info": "05时54分"
         },
         {
-          "title": "特朗普怒骂NBA球星詹姆斯：我早就说过他不行，简直是个耻辱",
-          "url": "https://news.ifeng.com/c/8xS2bhN07ef",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时38分"
-        },
-        {
           "title": "美国总统特朗普在备忘录中认定，美国国内石油生产、炼油及其他相关活动对国防至关重要。",
           "url": "https://flash.jin10.com/detail/20261023044700102800",
           "source": "金十数据",
@@ -118,17 +141,6 @@
           "time_info": "05时54分"
         },
         {
-          "title": "如何评价特朗普发文痛批詹姆斯在奏国歌时做「高尔夫挥杆动作」，并要求其道歉？",
-          "url": "https://www.zhihu.com/question/2096894678494884280",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时38分"
-        },
-        {
           "title": "美国总统特朗普：（关于伊朗）我们已经狠狠打击了他们，可能还会再进一步。",
           "url": "https://flash.jin10.com/detail/20261023042849849800",
           "source": "金十数据",
@@ -168,7 +180,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
@@ -417,7 +429,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨",
@@ -427,8 +439,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时31分 ~ 13时38分]"
+          "appearance_count": 4,
+          "time_info": "[08时31分 ~ 18时49分]"
         },
         {
           "title": "Meta成“最后一根稻草”，纳指“终于”崩了，美债应声大涨",
@@ -437,9 +449,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时38分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时38分 ~ 18时49分]"
         },
         {
           "title": "2/10年期美债收益率周四跌超16个基点，抛售AI概念股让投资者寻求避险",
@@ -468,11 +480,23 @@
           "url": "https://wallstreetcn.com/articles/3784249",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时38分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时38分 ~ 18时49分]"
+        },
+        {
+          "title": "美债走势逆转了吗",
+          "url": "https://www.toutiao.com/trending/7699774353814064694/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 18时49分]"
         },
         {
           "title": "Meta成“最后一根稻草”，纳指“终于”崩了，芯片股再现大跌，美债应声大涨",
@@ -492,7 +516,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
@@ -532,11 +556,12 @@
             17,
             16,
             4,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 13时38分]"
+          "appearance_count": 6,
+          "time_info": "[01时48分 ~ 18时49分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队发言人：我们准备推出有史以来威力最大炸弹——“炸弹之父”",
@@ -625,9 +650,84 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "曝DeepSeek完成千亿融资",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367960&amp;topic_name=%E6%9B%9DDeepSeek%E5%AE%8C%E6%88%90%E5%8D%83%E4%BA%BF%E8%9E%8D%E8%B5%84",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时38分 ~ 18时49分]"
+        },
+        {
+          "title": "如何评价 SemiAnalysis 认为 DeepSeek 与华为已形成共生关系？",
+          "url": "https://www.zhihu.com/question/2096603053763846842",
+          "source": "知乎",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 05时54分]"
+        },
+        {
+          "title": "为啥智谱 GLM 海外口碑极佳，国内认知度却不及豆包 DeepSeek？盈利模式、应用场景上三者有啥区别吗？",
+          "url": "https://www.zhihu.com/question/2095926994475168071",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "DeepSeek完成1000亿融资",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%8C%E6%88%901000%E4%BA%BF%E8%9E%8D%E8%B5%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 08时31分]"
+        },
+        {
+          "title": "“DeepSeek才是真正的OpenAI”",
+          "url": "https://news.ifeng.com/c/8xQqgcTDXjq",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 08时31分]"
+        },
+        {
+          "title": "DeepSeek 拟新融资 1000 亿元，腾讯、宁德时代出资最多，这会不会改写国内大模型的竞争格局？",
+          "url": "https://www.zhihu.com/question/2096713518582179306",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 18时49分]"
         }
       ]
     },
@@ -642,7 +742,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
@@ -700,70 +800,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "如何评价 SemiAnalysis 认为 DeepSeek 与华为已形成共生关系？",
-          "url": "https://www.zhihu.com/question/2096603053763846842",
-          "source": "知乎",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 05时54分]"
-        },
-        {
-          "title": "曝DeepSeek完成千亿融资",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367960&amp;topic_name=%E6%9B%9DDeepSeek%E5%AE%8C%E6%88%90%E5%8D%83%E4%BA%BF%E8%9E%8D%E8%B5%84",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时38分"
-        },
-        {
-          "title": "为啥智谱 GLM 海外口碑极佳，国内认知度却不及豆包 DeepSeek？盈利模式、应用场景上三者有啥区别吗？",
-          "url": "https://www.zhihu.com/question/2095926994475168071",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时38分"
-        },
-        {
-          "title": "DeepSeek完成1000亿融资",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%8C%E6%88%901000%E4%BA%BF%E8%9E%8D%E8%B5%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时48分 ~ 08时31分]"
-        },
-        {
-          "title": "“DeepSeek才是真正的OpenAI”",
-          "url": "https://news.ifeng.com/c/8xQqgcTDXjq",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时48分 ~ 08时31分]"
         }
       ]
     },
@@ -828,7 +864,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
@@ -839,7 +875,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         }

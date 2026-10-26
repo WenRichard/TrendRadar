@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-26T13:41:29.517172+08:00",
-  "total_titles_processed": 825,
+  "generated_at": "2026-10-26T20:01:41.811092+08:00",
+  "total_titles_processed": 1051,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 54,
       "titles": [
         {
           "title": "“多管齐下！特朗普政府暗中助选，要帮博索纳罗家族夺权”",
@@ -101,6 +101,28 @@
           "time_info": "[01时00分 ~ 06时14分]"
         },
         {
+          "title": "全球关键材料争夺战“白热化”？欧盟开始“抄特朗普作业”",
+          "url": "https://www.cls.cn/detail/2514939",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时01分"
+        },
+        {
+          "title": "特朗普狂喷：挪威是“粪坑国家”",
+          "url": "https://news.ifeng.com/c/8xXW8razcUG",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时01分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：我不希望我们在与普京会晤时失去手中的筹码——既没有制裁，也没有资金，更没有被冻结的资产。因为那样一来，正如特朗普先生所说，我们手中确实就没有多少牌可打了。",
           "url": "https://flash.jin10.com/detail/20261026030240540800",
           "source": "金十数据",
@@ -140,7 +162,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -162,7 +184,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -336,13 +358,24 @@
           "time_info": "01时01分"
         },
         {
+          "title": "特朗普当众轻佻评论女歌手身材，“希望她没觉得被冒犯”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34332295",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时01分"
+        },
+        {
           "title": "挑战特朗普在美国的一天",
           "url": "https://search.bilibili.com/all?keyword=%E6%8C%91%E6%88%98%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E7%BE%8E%E5%9B%BD%E7%9A%84%E4%B8%80%E5%A4%A9",
           "source": "bilibili 热搜",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -446,6 +479,17 @@
           "time_info": "06时14分"
         },
         {
+          "title": "挪方：特朗普因其选情不利才迁怒挪威",
+          "url": "https://flash.jin10.com/detail/20261026193958962800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时01分"
+        },
+        {
           "title": "据法庭听证会消息，美国上诉法院在审理特朗普政府针对加利福尼亚州提起的诉讼时，似乎对其主张持怀疑态度。特朗普政府指控加州选民名册中登记有非美国公民。",
           "url": "https://flash.jin10.com/detail/20261026044921976800",
           "source": "金十数据",
@@ -474,7 +518,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -570,7 +614,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "美航母重填弹药，或再袭伊朗",
@@ -632,6 +676,17 @@
           "time_info": "[01时01分 ~ 03时30分]"
         },
         {
+          "title": "伊朗外交部：以色列议会选举结果对伊“毫无区别”",
+          "url": "https://wallstreetcn.com/livenews/3186222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时01分"
+        },
+        {
           "title": "伊朗议员：美方全球利益或成打击目标",
           "url": "https://flash.jin10.com/detail/20261026003034502800",
           "source": "金十数据",
@@ -665,13 +720,24 @@
           "time_info": "06时14分"
         },
         {
+          "title": "埃及外交部长：我们每天都在与伊朗方面沟通。",
+          "url": "https://flash.jin10.com/detail/20261026194534068800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时01分"
+        },
+        {
           "title": "伊朗：沙特、巴基斯坦和土耳其官员将在德黑兰会晤。",
           "url": "https://wallstreetcn.com/livenews/3185394",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -693,7 +759,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -781,7 +847,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -792,7 +858,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -813,11 +879,62 @@
           "url": "https://www.douyin.com/hot/2713480",
           "source": "抖音",
           "ranks": [
-            15
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 20时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "周一亚市盘初美股期货走高，标普500指数期货涨0.4%，纳斯达克100指数期货涨0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3185261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
+          "title": "美股三大股指期货周一高开，其中纳指期货涨0.6%。",
+          "url": "https://flash.jin10.com/detail/20261026060035193800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
+          "title": "Meta美股盘前涨超2%，此前一度跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3186184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时41分"
+          "time_info": "20时01分"
+        },
+        {
+          "title": "Meta美股盘前跌幅快速收窄，现跌0.5%，此前一度跌近4%。公司宣布将通过普通股和优先股发行筹集约350亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3186095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时01分"
         }
       ]
     },
@@ -849,34 +966,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时00分 ~ 08时56分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "周一亚市盘初美股期货走高，标普500指数期货涨0.4%，纳斯达克100指数期货涨0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3185261",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        },
-        {
-          "title": "美股三大股指期货周一高开，其中纳指期货涨0.6%。",
-          "url": "https://flash.jin10.com/detail/20261026060035193800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时14分"
         }
       ]
     },

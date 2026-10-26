@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-26T08:56:11.137222+08:00",
-  "total_titles_processed": 622,
+  "generated_at": "2026-10-26T13:41:29.517172+08:00",
+  "total_titles_processed": 825,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 50,
       "titles": [
         {
           "title": "“多管齐下！特朗普政府暗中助选，要帮博索纳罗家族夺权”",
@@ -118,7 +118,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -134,6 +134,17 @@
           "time_info": "01时01分"
         },
         {
+          "title": "据英国金融时报：欧盟考虑在关键矿产保障方面效仿特朗普。",
+          "url": "https://flash.jin10.com/detail/20261026131007148800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
           "title": "美国总统特朗普：你们很快就会看到伊朗冲突以某种方式结束。 中期选举结束后不久将发放5000美元分红。",
           "url": "https://wallstreetcn.com/livenews/3185262",
           "source": "华尔街见闻-快讯",
@@ -143,6 +154,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
+        },
+        {
+          "title": "特朗普再次给内塔尼亚胡背书",
+          "url": "https://news.ifeng.com/c/8xWtiDBWMKf",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
         },
         {
           "title": "美国总统特朗普：俄罗斯没有把石油提供给我们，而是提供给了全世界，这是一件非常好的事。",
@@ -314,6 +336,17 @@
           "time_info": "01时01分"
         },
         {
+          "title": "挑战特朗普在美国的一天",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8C%91%E6%88%98%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E7%BE%8E%E5%9B%BD%E7%9A%84%E4%B8%80%E5%A4%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
           "title": "美国总统特朗普：我们今天不会打击伊朗。",
           "url": "https://flash.jin10.com/detail/20261026000059022800",
           "source": "金十数据",
@@ -342,7 +375,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -375,7 +408,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -433,6 +466,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
+        },
+        {
+          "title": "梅德韦杰夫喊话特朗普“教训”乌总统",
+          "url": "https://www.toutiao.com/trending/7700578970949075465/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
         },
         {
           "title": "美国总统特朗普：加拿大此刻愿意给我们任何东西。",
@@ -507,7 +551,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -526,7 +570,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "美航母重填弹药，或再袭伊朗",
@@ -621,6 +665,17 @@
           "time_info": "06时14分"
         },
         {
+          "title": "伊朗：沙特、巴基斯坦和土耳其官员将在德黑兰会晤。",
+          "url": "https://wallstreetcn.com/livenews/3185394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
           "title": "伊朗革命卫队：时间证明了我们已故殉难领袖话语的真实性。",
           "url": "https://flash.jin10.com/detail/20261026022336613800",
           "source": "金十数据",
@@ -630,6 +685,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时30分"
+        },
+        {
+          "title": "外媒：“麦加协议”三国高官将与伊朗官员会晤",
+          "url": "https://wallstreetcn.com/livenews/3185379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
         },
         {
           "title": "伊朗总统佩泽希齐扬：1月份全国性的反政府抗议主要由社会问题引发。如果民众信任我们，知道我们想要帮助他们、解决他们的问题，他们肯定会与我们合作。",
@@ -679,7 +745,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "人造黄金会不会击穿金价",
@@ -709,6 +775,28 @@
           "time_info": "[01时00分 ~ 08时56分]"
         },
         {
+          "title": "金价创纪录 俄罗斯矿企财务状况改善",
+          "url": "https://www.toutiao.com/trending/7700744756238663723/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "黄金价格再次下跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E5%86%8D%E6%AC%A1%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
           "title": "三大因素致国际金价走低",
           "url": "https://www.douyin.com/hot/2712115",
           "source": "抖音",
@@ -719,6 +807,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时00分 ~ 08时56分]"
+        },
+        {
+          "title": "黄金价格再次下跌",
+          "url": "https://www.douyin.com/hot/2713480",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
         }
       ]
     },

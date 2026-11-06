@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-06T07:55:35.548225+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-11-06T12:59:52.419244+08:00",
+  "total_titles_processed": 680,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "美股",
@@ -20,16 +20,41 @@
           "time_info": "[02时25分 ~ 07时55分]"
         },
         {
+          "title": "【早报】深夜闪崩，美股现史诗级抛售；费城半导体指数重挫12%，创2020年来最大跌幅；国际油价，大幅走高",
+          "url": "https://www.cls.cn/detail/2526813",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时55分 ~ 12时59分]"
+        },
+        {
+          "title": "美股收盘：AI监管担忧引爆历史性抛售！纳指暴跌5.5% 七巨头市值蒸发1万亿美元",
+          "url": "https://www.cls.cn/detail/2526796",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时55分 ~ 12时59分]"
+        },
+        {
           "title": "美股风向突变！纳指暴跌逾4% AI概念股再遭抛售",
           "url": "https://www.cls.cn/detail/2526694",
           "source": "财联社热门",
           "ranks": [
             5,
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 07时55分]"
+          "appearance_count": 3,
+          "time_info": "[02时25分 ~ 12时59分]"
         },
         {
           "title": "美股暴跌 遭遇历史性抛售",
@@ -38,9 +63,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "美股创 19 个月来最大单日跌幅、纳指暴跌 5.52%，科技股遭遇抛售潮，引发市场恐慌的核心原因是什么？",
+          "url": "https://www.zhihu.com/question/2101831171671904273",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         },
         {
           "title": "民主党横扫国会！美股债齐涨，光通信与数据中心股下挫，原油一度暴跌10%，金银大涨",
@@ -54,37 +90,26 @@
           "time_info": "02时25分"
         },
         {
-          "title": "美股收盘：AI监管担忧引爆历史性抛售！纳指暴跌5.5% 七巨头市值蒸发1万亿美元",
-          "url": "https://www.cls.cn/detail/2526796",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
           "title": "美股创纪录“血洗”2.8万亿美元",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%88%9B%E7%BA%AA%E5%BD%95%E2%80%9C%E8%A1%80%E6%B4%97%E2%80%9D2.8%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
           "source": "百度热搜",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
         {
-          "title": "【早报】深夜闪崩，美股现史诗级抛售；费城半导体指数重挫12%，创2020年来最大跌幅；国际油价，大幅走高",
-          "url": "https://www.cls.cn/detail/2526813",
-          "source": "财联社热门",
+          "title": "美股暴跌马斯克发出感叹哇",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E6%9A%B4%E8%B7%8C%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8F%91%E5%87%BA%E6%84%9F%E5%8F%B9%E5%93%87%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时55分"
+          "time_info": "12时59分"
         },
         {
           "title": "Hypers大涨、Neocloud暴跌：民主党横扫国会，美股科技板块上演大轮动",
@@ -103,11 +128,34 @@
           "url": "https://wallstreetcn.com/articles/3785294",
           "source": "华尔街见闻",
           "ranks": [
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时55分 ~ 12时59分]"
+        },
+        {
+          "title": "美股暴跌，华尔街全线溃败、无处可藏",
+          "url": "https://original.ifeng.com/c/8xpAGX6vxKY",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "中选靴子落地后，华尔街集体转向看多美股",
+          "url": "https://wallstreetcn.com/articles/3785264",
+          "source": "华尔街见闻",
+          "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时55分"
+          "time_info": "12时59分"
         },
         {
           "title": "美股三大指数集体收涨",
@@ -160,7 +208,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -171,9 +219,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "美股史诗级暴跌，单日蒸发约 2.8 万亿美元，AI 产业链集体崩盘，是单纯监管预期利空还是大行情拐点？",
+          "url": "https://www.zhihu.com/question/2101822062662886692",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         },
         {
           "title": "美股开盘：高通绩后跌超12%",
@@ -193,7 +252,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -226,7 +285,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         }
@@ -234,7 +293,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "万斯发长文与特朗普切割？特朗普回应",
@@ -281,13 +340,35 @@
           "time_info": "[02时25分 ~ 07时55分]"
         },
         {
+          "title": "英媒：多名特朗普内阁官员萌生去意",
+          "url": "https://original.ifeng.com/c/8xpH9krOHRf",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "美国法官暂时叫停美国总统特朗普政府启动凯旋门建设。",
+          "url": "https://flash.jin10.com/detail/20261106124759363800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
           "title": "美国总统特朗普在与国家安全团队举行会议后表示，他很快将决定是恢复针对伊朗的军事行动，还是寻求达成外交协议。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3195398",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -298,7 +379,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -321,7 +402,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -332,7 +413,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -343,7 +424,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         }
@@ -351,7 +432,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "伊朗安全官员向普京转达伊最高领袖讯息",
@@ -363,6 +444,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
+        },
+        {
+          "title": "以色列Walla新闻：若与伊朗爆发冲突，真主党可能会开辟另一条战线。真主党在边境升级与以色列军队的摩擦，旨在代表伊朗传递信息。以色列安全机构认为，尽管真主党正努力重建其能力，但目前尚未恢复元气。",
+          "url": "https://flash.jin10.com/detail/20261106123915423800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         },
         {
           "title": "美对伊朗核打击传闻再起：镐山设施、钻地弹与内塔尼亚胡的“电话攻势”",
@@ -400,13 +492,46 @@
           "time_info": "02时25分"
         },
         {
+          "title": "据伊朗学生通讯社：伊拉克外交部长表示，美国与伊朗之间恢复军事行动是可能的，这已不再是什么秘密。如果伊拉克再次被卷入这场战争，该国将面临极其艰难和危急的状况。",
+          "url": "https://flash.jin10.com/detail/20261106122840219800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "伊朗向美国提交涉核提议",
+          "url": "https://www.toutiao.com/trending/7704779610391560713/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "伊朗向美国提交一份涉核提议 细节未知",
+          "url": "https://wallstreetcn.com/livenews/3195579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
           "title": "美国参议院民主党领袖舒默：许多民主党参议员可能希望在即将到来的跛脚会议上，迫使共和党对伊朗战争做出让步，才会投票延长政府资金。",
           "url": "https://flash.jin10.com/detail/20261106065643575800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -500,24 +625,25 @@
           "time_info": "02时25分"
         },
         {
+          "title": "圆桌｜具身智能为何有些场景还“没打穿”？企业何时能赚钱？离“ChatGPT时刻”还差什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34412734",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时55分 ~ 12时59分]"
+        },
+        {
           "title": "OpenAI 推出 Images2.6，生成速度提升 50% 且支持 GIF，体验如何？",
           "url": "https://www.zhihu.com/question/2101596366724190781",
           "source": "知乎",
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
-          "title": "圆桌｜具身智能为何有些场景还“没打穿”？企业何时能赚钱？离“ChatGPT时刻”还差什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34412734",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -546,9 +672,49 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中国模型领跑美国企业开源模型支出 Kimi、DeepSeek分列前二",
+          "url": "https://wallstreetcn.com/livenews/3195594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "曝 DeepSeek V5 将采用华为昇腾 950 芯片作为核心训练算力，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2100918856617288554",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
+        {
+          "title": "国际金价接连收复4000美元、4100美元关口，这轮反弹能走多远？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34414569",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时55分 ~ 12时59分]"
+        },
         {
           "title": "金价剧烈震荡，银行积存金展开“花式营销”",
           "url": "https://wallstreetcn.com/livenews/3195385",
@@ -556,18 +722,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
-          "title": "国际金价接连收复4000美元、4100美元关口，这轮反弹能走多远？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34414569",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         }

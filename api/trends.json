@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-07T07:55:08.102916+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-11-07T11:58:45.722362+08:00",
+  "total_titles_processed": 653,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "撞上AI崩盘！今晚，一份强劲非农报告，或给美股又一重击",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时47分 ~ 07时55分]"
+          "appearance_count": 4,
+          "time_info": "[03时47分 ~ 11时58分]"
         },
         {
           "title": "强劲非农提振加息预期，美元大涨，美股分化道指收跌，芯片股技术性反弹，AMD涨11%",
@@ -27,19 +27,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 07时55分]"
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 11时58分]"
         },
         {
           "title": "美股收盘：AI概念股止跌反弹 纳指收涨1% 仍难逃周线四连跌",
           "url": "https://www.cls.cn/detail/2527967",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 07时55分]"
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 11时58分]"
         },
         {
           "title": "隔夜美股崩盘：一场由1000亿美元“抢跑”引爆的反身性风暴",
@@ -47,11 +48,24 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时47分 ~ 11时58分]"
+        },
+        {
+          "title": "【早报】美股芯片股反弹，AMD涨超11%，中概股集体走强；多家券商启动第三批互换便利首批股票买入",
+          "url": "https://www.cls.cn/detail/2527975",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时47分 ~ 07时55分]"
+          "time_info": "[07时54分 ~ 11时58分]"
         },
         {
           "title": "民主党提出超级 AI 禁令，美股迎来 1896 年以来中期选举后表现最差的第二个交易日，影响有多大？",
@@ -64,17 +78,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时47分 ~ 07时55分]"
-        },
-        {
-          "title": "【早报】美股芯片股反弹，AMD涨超11%，中概股集体走强；多家券商启动第三批互换便利首批股票买入",
-          "url": "https://www.cls.cn/detail/2527975",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 07时55分]"
         },
         {
           "title": "纳指股灾！美股“无处可逃”",
@@ -138,7 +141,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -160,9 +163,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "一个伊朗女人搞崩了美股",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E4%BC%8A%E6%9C%97%E5%A5%B3%E4%BA%BA%E6%90%9E%E5%B4%A9%E4%BA%86%E7%BE%8E%E8%82%A1",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
         },
         {
           "title": "周五（11月6日），美股AI软件先驱指数涨0.29%，报115.31点，本周累计下跌8.06%。",
@@ -171,7 +185,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -182,7 +196,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -193,7 +207,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -204,7 +218,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -215,7 +229,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -226,7 +240,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         }
@@ -234,7 +248,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "民主党计划调查苹果、Meta和马斯克，特朗普的硅谷盟友面临“清算”！",
@@ -242,11 +256,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时47分 ~ 07时55分]"
+          "appearance_count": 4,
+          "time_info": "[03时47分 ~ 11时58分]"
         },
         {
           "title": "特朗普任命新白宫办公厅主任",
@@ -256,8 +271,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 07时55分]"
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 11时58分]"
+        },
+        {
+          "title": "特朗普称正在与伊朗进行沟通 Anthropic上市估值预期据悉进一步打折 | 环球市场",
+          "url": "https://www.cls.cn/detail/2527972",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 11时58分]"
         },
         {
           "title": "特朗普签发公告：禁止擅改总统办公室",
@@ -270,17 +297,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时47分 ~ 07时55分]"
-        },
-        {
-          "title": "特朗普称正在与伊朗进行沟通 Anthropic上市估值预期据悉进一步打折 | 环球市场",
-          "url": "https://www.cls.cn/detail/2527972",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 07时55分]"
         },
         {
           "title": "特朗普任命新白宫办公厅主任",
@@ -327,6 +343,17 @@
           "time_info": "03时47分"
         },
         {
+          "title": "“蓝潮”无碍数据中心建设！白宫高官安抚市场 特朗普称100%支持SI",
+          "url": "https://www.cls.cn/detail/2527984",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
           "title": "特朗普宣布任命斯蒂芬·米勒为白宫幕僚长",
           "url": "https://flash.jin10.com/detail/20261107025319466800",
           "source": "金十数据",
@@ -344,9 +371,53 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "特朗普任命新白宫幕僚长 怀尔斯将调至政治运营团队",
+          "url": "https://wallstreetcn.com/livenews/3196325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "特朗普称美国是霍尔木兹海峡占领者",
+          "url": "https://wallstreetcn.com/livenews/3196323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "特朗普宣布两年后举办航天航空大会，欲打造美国版国际大型航展",
+          "url": "https://flash.jin10.com/detail/20261107094307712800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "美国总统特朗普周六日程一览",
+          "url": "https://flash.jin10.com/detail/20261107093648329800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
         },
         {
           "title": "美国总统特朗普：如果我没有阻止伊朗拥有核武器，以色列、事实上整个中东，今天都不会存在。 没人愿意这么说，但所有人都知道这是真的！",
@@ -363,7 +434,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
         {
           "title": "美以已做好打击准备，伊朗外长紧急连线6国",
@@ -394,7 +465,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -406,8 +477,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 07时55分]"
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 11时58分]"
         },
         {
           "title": "俄外交部建议本国公民暂缓赴伊朗旅行",
@@ -427,7 +498,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -438,7 +509,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -449,9 +520,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "美国军方对伊朗实施新的定点打击。美国军方对格什姆岛实施了打击。（美联社）",
+          "url": "https://wallstreetcn.com/livenews/3196332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "两枚导弹击中伊朗格什姆岛",
+          "url": "https://www.douyin.com/hot/2733694",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
         },
         {
           "title": "伊拉克外长与伊朗外长通电话 讨论伊朗重启谈判方案",
@@ -463,6 +556,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
+        },
+        {
+          "title": "2枚导弹击中伊朗格什姆岛 或是美空袭",
+          "url": "https://www.toutiao.com/trending/7705210412316233279/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "美媒：万斯在幕后推动与伊朗达成新协议",
+          "url": "https://wallstreetcn.com/livenews/3196298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "美媒：万斯在幕后推动与伊朗达成新协议",
+          "url": "https://flash.jin10.com/detail/20261107093445587800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
         }
       ]
     },
@@ -477,7 +603,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -510,7 +636,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         }
@@ -538,7 +664,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -549,7 +675,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -568,7 +694,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "男子预判金价能到 2000 元 / 克，花光积蓄买 7 斤黄金，9 个月亏 114 万元，急用钱无奈割肉，如何看待此事？",
@@ -579,8 +705,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时47分 ~ 07时55分]"
+          "appearance_count": 4,
+          "time_info": "[03时47分 ~ 11时58分]"
+        },
+        {
+          "title": "油价暴跌20%，金价为何逆势大涨？高盛：黄金成为\"反向石油交易\"",
+          "url": "https://wallstreetcn.com/articles/3785336",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
         },
         {
           "title": "国际金价在非农日走低，本周累涨5%，纽约铜本周跌3.8%",
@@ -589,7 +726,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         }
@@ -617,7 +754,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         }
@@ -651,7 +788,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         }

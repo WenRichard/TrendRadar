@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-11-09T10:17:18.154957+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2026-11-09T18:45:07.200507+08:00",
+  "total_titles_processed": 850,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 35,
       "titles": [
+        {
+          "title": "“铁门”封锁陆路！特朗普称“目前几乎没有物资能够进出伊朗”，若谈判取得进展，再次发动打击可能性极低",
+          "url": "https://wallstreetcn.com/articles/3785498",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 18时45分]"
+        },
         {
           "title": "黄仁勋承认出轨，特朗普：他是个正派的人",
           "url": "https://original.ifeng.com/c/8xuGYgpqy9a",
@@ -17,6 +28,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时16分 ~ 10时17分]"
+        },
+        {
+          "title": "“这是美国民主党和建制派搞黄仁勋，进而搞特朗普的一种方式”",
+          "url": "https://news.ifeng.com/c/8xuSTiEyxK7",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 18时45分]"
         },
         {
           "title": "美国国务卿鲁比奥：我认为总统特朗普承担了其他总统未能做到的事情。有时候，当你做对的事时，你不知道它是否受欢迎，但这仍然是正确的选择。",
@@ -58,7 +80,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时17分"
         },
@@ -69,7 +91,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时17分"
         },
@@ -122,6 +144,61 @@
           "time_info": "[02时43分 ~ 10时17分]"
         },
         {
+          "title": "事关AI交易走向，硅谷、华尔街热议“黄仁勋绯闻”，马斯克力挺、特朗普也发声",
+          "url": "https://wallstreetcn.com/articles/3785517",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 18时45分]"
+        },
+        {
+          "title": "伊朗向特朗普发48小时最后通牒",
+          "url": "https://original.ifeng.com/c/8xub7UOarEQ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 18时45分]"
+        },
+        {
+          "title": "中方回应特朗普政府请求中国帮助",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E8%AF%B7%E6%B1%82%E4%B8%AD%E5%9B%BD%E5%B8%AE%E5%8A%A9",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 18时45分]"
+        },
+        {
+          "title": "外交努力持续！今日，特朗普和万斯将在白宫会见美伊关键调解人",
+          "url": "https://www.cls.cn/detail/2528621",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 18时45分]"
+        },
+        {
+          "title": "特朗普：如果没我以色列早就不复存在",
+          "url": "https://www.toutiao.com/trending/7706090212811801139/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 18时45分]"
+        },
+        {
           "title": "特朗普邀UFC总裁任新闻秘书是乌龙吗",
           "url": "https://www.toutiao.com/trending/7705954970561941043/",
           "source": "今日头条",
@@ -142,6 +219,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时16分 ~ 10时17分]"
+        },
+        {
+          "title": "特朗普称将与中俄元首在APEC讨论美伊冲突及无核化问题，外交部回应",
+          "url": "https://www.cls.cn/detail/2528960",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 18时45分]"
         },
         {
           "title": "美国总统特朗普：可能会对政府进行一些调整，但目前不想透露具体人选。",
@@ -228,7 +316,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时17分"
         },
@@ -297,12 +385,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "土耳其总统埃尔多安：我们不希望看到针对伊朗的新一轮袭击，我在通话中向美国总统特朗普表达了我们的关切。",
+          "url": "https://flash.jin10.com/detail/20261109180210228800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 29,
       "titles": [
         {
           "title": "美中央司令部成立铁门特遣队，阻击伊朗陆路运输",
@@ -362,6 +461,17 @@
           "time_info": "06时38分"
         },
         {
+          "title": "伊朗总统：最高领袖已指示结束“既不战争、也不和平”的状态",
+          "url": "https://flash.jin10.com/detail/20261109182233213800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
           "title": "美财政部要求伊拉克关闭与伊朗之间大部分边境口岸",
           "url": "https://wallstreetcn.com/livenews/3196511",
           "source": "华尔街见闻-快讯",
@@ -395,6 +505,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时43分 ~ 06时38分]"
+        },
+        {
+          "title": "鲁比奥：伊朗提出的要求完全不可接受",
+          "url": "https://original.ifeng.com/c/8xuGqEePP2n",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 18时45分]"
         },
         {
           "title": "伊朗革命卫队顾问：伊朗正在对缴获的美国军事装备进行逆向工程。",
@@ -431,6 +552,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时43分 ~ 06时38分]"
+        },
+        {
+          "title": "伊朗称在霍尔木兹海峡摧毁敌导航系统",
+          "url": "https://www.toutiao.com/trending/7706024115173392923/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 18时45分]"
         },
         {
           "title": "伊朗海军称一艘油轮在霍尔木兹海峡以东触雷起火。",
@@ -489,6 +621,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
+        },
+        {
+          "title": "消息人士：美国向伊朗提出新方案——以金钱和制裁换核协议",
+          "url": "https://flash.jin10.com/detail/20261109182029089800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         },
         {
           "title": "伊拉克外长表示，美国财政部要求伊拉克关闭与伊朗的大部分边境口岸，仅保留两个开放。",
@@ -557,6 +700,17 @@
           "time_info": "02时43分"
         },
         {
+          "title": "伊朗称向美国提出的重开霍尔木兹海峡“两日方案”仍然有效",
+          "url": "https://wallstreetcn.com/livenews/3196820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
           "title": "伊朗称当天三艘油轮在霍尔木兹海峡爆炸起火",
           "url": "https://wallstreetcn.com/livenews/3196477",
           "source": "华尔街见闻-快讯",
@@ -582,7 +736,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "九年来首次！美股科技股迈入“比大盘便宜”时代",
@@ -609,16 +763,39 @@
           "time_info": "[02时43分 ~ 10时17分]"
         },
         {
+          "title": "黄仁勋丑闻搅动市场，英伟达美股盘前跌近5%，亚洲股市强势反弹，油价下跌",
+          "url": "https://wallstreetcn.com/articles/3785518",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 18时45分]"
+        },
+        {
           "title": "美国女议员戳破美股AI泡沫",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369406&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E8%AE%AE%E5%91%98%E6%88%B3%E7%A0%B4%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
           "source": "贴吧",
           "ranks": [
             20,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时43分 ~ 10时17分]"
+          "appearance_count": 6,
+          "time_info": "[02时43分 ~ 18时45分]"
+        },
+        {
+          "title": "英伟达美股夜盘跌超 3%，其后续股价走势会如何？",
+          "url": "https://www.zhihu.com/question/2103054279376204138",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 18时45分]"
         },
         {
           "title": "英伟达美股夜盘跌逾3%",
@@ -630,6 +807,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时16分 ~ 10时17分]"
+        },
+        {
+          "title": "摩根士丹利：美股回调接近尾声 或正为年末反弹蓄势",
+          "url": "https://wallstreetcn.com/livenews/3196855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
+          "title": "英伟达美股盘前跌近5%，此前黄仁勋承认婚外情并引发董事会调查。",
+          "url": "https://wallstreetcn.com/livenews/3196825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         }
       ]
     },
@@ -658,6 +857,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据纽约时报：美国参议员要求谷歌允许学校禁用人工智能功能。",
+          "url": "https://flash.jin10.com/detail/20261109180646170800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         }
       ]
     },

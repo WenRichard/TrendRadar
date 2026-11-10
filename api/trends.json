@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-10T05:15:23.720765+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-11-10T12:03:40.321542+08:00",
+  "total_titles_processed": 544,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普：卡塔尔和沙特希望和平解决伊朗问题 但必要时将恢复打击",
@@ -41,6 +41,39 @@
           "time_info": "05时15分"
         },
         {
+          "title": "特朗普回应是否拿下古巴",
+          "url": "https://news.ifeng.com/c/8xw1pIaWnqw",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "美伊和平又现曙光？特朗普：结束战争现积极势头 不太可能打击伊朗",
+          "url": "https://www.cls.cn/detail/2529629",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "特朗普质疑美国中期选举结果，称提前投票数据异常",
+          "url": "https://news.ifeng.com/c/8xvuX0M7OL2",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
           "title": "美国众议院民主党领导人Hakeem Jeffries：（总统特朗普的）特使库什纳不可能是一个可靠的伙伴。",
           "url": "https://wallstreetcn.com/livenews/3197150",
           "source": "华尔街见闻-快讯",
@@ -50,6 +83,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "美伊核谈判重大进展？据称就伊朗铀浓缩丰度达成一致，特朗普称出现结束战事积极势头",
+          "url": "https://wallstreetcn.com/articles/3785603",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "特朗普谈UFO：美军飞行员“曾告诉我一些非常奇怪的事情”",
@@ -63,6 +107,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "特朗普称伊朗战事已“事实上结束”",
+          "url": "https://news.ifeng.com/c/8xvpfG8oa0G",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
           "title": "特朗普政府寻求中方协助结束美伊冲突？外交部回应",
           "url": "https://www.cls.cn/detail/2529178",
           "source": "财联社热门",
@@ -74,6 +129,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "美共和党议员要求弹劾防长，特朗普回应",
+          "url": "https://original.ifeng.com/c/8xvi7jFdssH",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
           "title": "美国总统特朗普：本周在阿布扎比举行的乌克兰问题会谈存在取得突破的可能。",
           "url": "https://wallstreetcn.com/livenews/3197147",
           "source": "华尔街见闻-快讯",
@@ -83,6 +149,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "外媒爆料：内塔尼亚胡“每天”都给特朗普打电话，敦促其重启对伊朗军事打击",
+          "url": "https://wallstreetcn.com/livenews/3197366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "美国总统特朗普为国防部长赫格塞斯辩护，反驳针对他的弹劾行动，声称自己“赢了两场战争”。",
@@ -129,6 +206,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "11月10日投资避雷针：特朗普称结束伊朗战争出现积极势头 布油重挫近6%",
+          "url": "https://www.cls.cn/detail/2529648",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
           "title": "美国总统特朗普：本周阿布扎比乌克兰会谈存在取得突破的可能。",
           "url": "https://flash.jin10.com/detail/20261110042241523800",
           "source": "金十数据",
@@ -171,6 +259,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "伊朗向特朗普发 48 小时最后通牒，要么接受德黑兰提出的最新方案，要么面临军事冲突升级，特朗普会如何选择？",
+          "url": "https://www.zhihu.com/question/2103246242599756216",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "特朗普称没必要再对伊朗采取军事行动",
+          "url": "https://www.toutiao.com/trending/7705369281621442587/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "消息人士：由于担心项目可行性，美国政府贷款机构不打算批准为一项由特朗普政府牵头促成的哈萨克斯坦矿业项目提供16亿美元融资。特朗普之子为该项目的投资者。",
@@ -220,7 +330,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "黄仁勋丑闻搅动市场，英伟达跌5%，美股三大指数齐涨，半导体指数涨3%，布油跌超3%",
@@ -232,6 +342,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "【早报】深夜暴力反弹，美股芯片股全线爆发；英伟达逆势大跌，收创近七个月新低；国际油价，跌至8月以来最低",
+          "url": "https://www.cls.cn/detail/2529608",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "美股收盘：纳指欢腾大涨近3% 英伟达市值独自缩水12800亿元",
+          "url": "https://www.cls.cn/detail/2529594",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "美股三大期指盘前集体走高 英伟达逆市暴跌6% | 今夜看点",
@@ -252,8 +384,31 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 12时03分]"
+        },
+        {
+          "title": "美国女议员戳破美股AI泡沫",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369406&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E8%AE%AE%E5%91%98%E6%88%B3%E7%A0%B4%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
+          "source": "贴吧",
+          "ranks": [
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 12时03分]"
+        },
+        {
+          "title": "美股三大指数均涨超 2%，科技股飙升，英伟达逆市跌 4.2%，如何解读？",
+          "url": "https://www.zhihu.com/question/2103388122998203709",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时15分"
+          "time_info": "12时03分"
         },
         {
           "title": "石油和天然气公司Sable Offshore（SOC）股价暴跌58%，交投于0.81美元附近，美股盘初崩跌超73.57%，刷新美国IPO以来盘中最低位至0.51美元。 其唯一客户暂时停止购买石油。 对此，该公司称将难以偿还短期债务。",
@@ -287,17 +442,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
-        },
-        {
-          "title": "美国女议员戳破美股AI泡沫",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369406&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E8%AE%AE%E5%91%98%E6%88%B3%E7%A0%B4%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
         }
       ]
     },
@@ -313,8 +457,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 12时03分]"
         },
         {
           "title": "伊朗最高领袖下令结束非战非和状态",
@@ -341,6 +485,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价波动加大催生更灵活交易工具，多家银行上线积存金“挂单”功能，针对波段操作客户",
+          "url": "https://www.cls.cn/detail/2529343",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
+          "title": "CPI少了同比，金价这次得换读法？",
+          "url": "https://flash.jin10.com/detail/20261110112407999800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -361,23 +533,6 @@
           "source": "金十数据",
           "ranks": [
             11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价波动加大催生更灵活交易工具，多家银行上线积存金“挂单”功能，针对波段操作客户",
-          "url": "https://www.cls.cn/detail/2529343",
-          "source": "财联社热门",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 1,
